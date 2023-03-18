@@ -1,0 +1,1332 @@
+2023-02-15 14:26:45,953 :INFO : test_groceryShopping :Searching ofr first item: BREAD
+2023-02-15 14:26:50,329 :INFO : test_groceryShopping :Dave's Killer Bread Organic Good Seed Bread - 27oz
+2023-02-15 14:27:18,692 :INFO : test_groceryShopping :Searching ofr first item: BREAD
+2023-02-15 14:27:23,001 :INFO : test_groceryShopping :Dave's Killer Bread Organic Good Seed Bread - 27oz
+2023-02-15 14:28:49,853 :INFO : test_groceryShopping :Searching ofr first item: BREAD
+2023-02-15 14:28:54,736 :INFO : test_groceryShopping :Dave's Killer Bread Organic Good Seed Bread - 27oz
+2023-02-15 14:28:56,789 :INFO : test_groceryShopping :Dave's Killer Bread Organic Thin Sliced Good Seed Bread - 20.5oz
+2023-02-15 14:28:56,803 :INFO : test_groceryShopping :Dave's Killer Bread Organic Thin Sliced White Sandwich Bread - 20.5oz
+2023-02-15 14:28:56,813 :INFO : test_groceryShopping :Dave's Killer Bread Organic Raisin' the Roof - 18oz
+2023-02-15 14:28:56,823 :INFO : test_groceryShopping :Dave's Killer Bread Organic White Bread Done Right - 24oz
+2023-02-15 14:28:56,831 :INFO : test_groceryShopping :Dave's Killer Bread Organic Powerseed Sandwich Bread - 25oz
+2023-02-15 14:28:56,838 :INFO : test_groceryShopping :Dave's Killer Bread Sprouted Whole Grains Thin Sliced Bread - 20.5oz
+2023-02-15 14:28:56,845 :INFO : test_groceryShopping :Carbonaut Seeded Bread - 19oz
+2023-02-15 14:28:56,852 :INFO : test_groceryShopping :Silver Hills Bakery Organic Multigrain Sprouted Wheat Bread - 24oz
+2023-02-15 14:32:23,151 :INFO : test_groceryShopping :Searching ofr first item: BREAD
+2023-02-15 14:34:20,492 :INFO : test_groceryShopping :Searching ofr first item: BREAD
+2023-02-15 14:34:24,854 :INFO : test_groceryShopping :Dave's Killer Bread Organic Good Seed Bread - 27oz
+2023-02-15 14:34:26,886 :INFO : test_groceryShopping :Dave's Killer Bread Organic Thin Sliced Good Seed Bread - 20.5oz
+2023-02-15 14:34:26,899 :INFO : test_groceryShopping :Dave's Killer Bread Organic Thin Sliced White Sandwich Bread - 20.5oz
+2023-02-15 14:34:26,909 :INFO : test_groceryShopping :Dave's Killer Bread Organic Raisin' the Roof - 18oz
+2023-02-15 14:34:26,918 :INFO : test_groceryShopping :Dave's Killer Bread Organic White Bread Done Right - 24oz
+2023-02-15 14:34:26,934 :INFO : test_groceryShopping :Dave's Killer Bread Organic Powerseed Sandwich Bread - 25oz
+2023-02-15 14:34:26,940 :INFO : test_groceryShopping :Dave's Killer Bread Sprouted Whole Grains Thin Sliced Bread - 20.5oz
+2023-02-15 14:34:26,947 :INFO : test_groceryShopping :Carbonaut Seeded Bread - 19oz
+2023-02-15 14:34:26,954 :INFO : test_groceryShopping :Silver Hills Bakery Organic Multigrain Sprouted Wheat Bread - 24oz
+2023-02-15 14:36:45,659 :INFO : test_groceryShopping :Searching ofr first item: BREAD
+2023-02-15 14:38:29,982 :INFO : test_groceryShopping :Searching ofr first item: BREAD
+2023-02-15 14:39:07,017 :INFO : test_groceryShopping :Searching ofr first item: BREAD
+2023-02-15 14:39:30,028 :INFO : test_groceryShopping :Searching ofr first item: BREAD
+2023-02-15 14:39:34,251 :INFO : test_groceryShopping :None
+2023-02-15 14:41:40,512 :INFO : test_groceryShopping :Searching ofr first item: BREAD
+2023-02-15 14:41:44,698 :INFO : test_groceryShopping :[<selenium.webdriver.remote.webelement.WebElement (session="0936fdbfda96265642ef99fc5674efeb", element="6b47a15f-a28b-4f39-9bd1-27360af633dd")>, <selenium.webdriver.remote.webelement.WebElement (session="0936fdbfda96265642ef99fc5674efeb", element="4539924e-597f-4a01-8c53-ab8331e86423")>, <selenium.webdriver.remote.webelement.WebElement (session="0936fdbfda96265642ef99fc5674efeb", element="d37320a2-f8c3-4158-b4dd-1b9ccaeb1425")>, <selenium.webdriver.remote.webelement.WebElement (session="0936fdbfda96265642ef99fc5674efeb", element="b389754e-be14-4c88-becc-17b8338fe042")>, <selenium.webdriver.remote.webelement.WebElement (session="0936fdbfda96265642ef99fc5674efeb", element="8e6f59fe-12a4-4205-984e-8ccc1ad75a76")>, <selenium.webdriver.remote.webelement.WebElement (session="0936fdbfda96265642ef99fc5674efeb", element="1554cf00-a61c-439a-bda7-e21a8cd5fdbb")>, <selenium.webdriver.remote.webelement.WebElement (session="0936fdbfda96265642ef99fc5674efeb", element="81f257d0-1d69-4f0d-8246-f02dc60cd681")>, <selenium.webdriver.remote.webelement.WebElement (session="0936fdbfda96265642ef99fc5674efeb", element="ceb625cb-e2e8-4986-97ff-8df42b830554")>, <selenium.webdriver.remote.webelement.WebElement (session="0936fdbfda96265642ef99fc5674efeb", element="f7890883-b05a-49f1-82b6-b56fb1237c0e")>]
+2023-02-15 14:41:44,716 :INFO : test_groceryShopping :Dave's Killer Bread Organic Good Seed Bread - 27oz
+2023-02-15 14:41:46,847 :INFO : test_groceryShopping :Dave's Killer Bread Organic Thin Sliced Good Seed Bread - 20.5oz
+2023-02-15 14:41:46,863 :INFO : test_groceryShopping :Dave's Killer Bread Organic Thin Sliced White Sandwich Bread - 20.5oz
+2023-02-15 14:41:46,876 :INFO : test_groceryShopping :Dave's Killer Bread Organic Raisin' the Roof - 18oz
+2023-02-15 14:41:46,884 :INFO : test_groceryShopping :Dave's Killer Bread Organic White Bread Done Right - 24oz
+2023-02-15 14:41:46,893 :INFO : test_groceryShopping :Dave's Killer Bread Organic Powerseed Sandwich Bread - 25oz
+2023-02-15 14:41:46,901 :INFO : test_groceryShopping :Dave's Killer Bread Sprouted Whole Grains Thin Sliced Bread - 20.5oz
+2023-02-15 14:41:46,908 :INFO : test_groceryShopping :Carbonaut Seeded Bread - 19oz
+2023-02-15 14:41:46,914 :INFO : test_groceryShopping :Silver Hills Bakery Organic Multigrain Sprouted Wheat Bread - 24oz
+2023-02-15 15:00:23,105 :INFO : test_groceryShopping :Searching ofr first item: BREAD
+2023-02-15 15:00:27,373 :INFO : test_groceryShopping :[<selenium.webdriver.remote.webelement.WebElement (session="edb0f9d927a38984362a5f7b5b3006b9", element="b36560a5-bc08-430d-b0ec-98217ffe04e7")>, <selenium.webdriver.remote.webelement.WebElement (session="edb0f9d927a38984362a5f7b5b3006b9", element="dbff0402-6ba3-4d6d-bbfb-4679cf60302d")>, <selenium.webdriver.remote.webelement.WebElement (session="edb0f9d927a38984362a5f7b5b3006b9", element="4d851a6e-50ae-40ce-adaa-cc0f203591b1")>, <selenium.webdriver.remote.webelement.WebElement (session="edb0f9d927a38984362a5f7b5b3006b9", element="31cd0545-76ed-4209-ab45-4dc898165d8d")>, <selenium.webdriver.remote.webelement.WebElement (session="edb0f9d927a38984362a5f7b5b3006b9", element="1fd55cc7-b41e-4adf-a124-58a40cc5566c")>, <selenium.webdriver.remote.webelement.WebElement (session="edb0f9d927a38984362a5f7b5b3006b9", element="f1239aa8-c32f-45ae-8610-fb69d3c43249")>, <selenium.webdriver.remote.webelement.WebElement (session="edb0f9d927a38984362a5f7b5b3006b9", element="88a62408-3f2c-4567-a180-53f2a2f1cf55")>, <selenium.webdriver.remote.webelement.WebElement (session="edb0f9d927a38984362a5f7b5b3006b9", element="94041759-b2f3-4668-93e1-ce2628ed6091")>, <selenium.webdriver.remote.webelement.WebElement (session="edb0f9d927a38984362a5f7b5b3006b9", element="8242beae-870a-4581-9d02-40ef18532e5b")>]
+2023-02-15 15:00:27,463 :INFO : test_groceryShopping :Dave's Killer Bread Organic Good Seed Bread - 27oz
+2023-02-15 15:02:34,053 :INFO : test_groceryShopping :Searching ofr first item: BREAD
+2023-02-15 15:02:38,315 :INFO : test_groceryShopping :[<selenium.webdriver.remote.webelement.WebElement (session="9b911f76b683fa87072e9d70915e3522", element="694373dd-aa00-4299-9016-23a8469ad77a")>, <selenium.webdriver.remote.webelement.WebElement (session="9b911f76b683fa87072e9d70915e3522", element="cff63a9f-7d6a-4ae0-b071-5cca7fba5b30")>, <selenium.webdriver.remote.webelement.WebElement (session="9b911f76b683fa87072e9d70915e3522", element="d2431312-0ede-4e79-91df-3ddb80f0acd7")>, <selenium.webdriver.remote.webelement.WebElement (session="9b911f76b683fa87072e9d70915e3522", element="c32a3f25-6093-4347-872b-6a6c532fcb20")>, <selenium.webdriver.remote.webelement.WebElement (session="9b911f76b683fa87072e9d70915e3522", element="110e2d59-8554-4b51-8058-30c5fc726308")>, <selenium.webdriver.remote.webelement.WebElement (session="9b911f76b683fa87072e9d70915e3522", element="9c8214ba-6657-4660-ade7-7d619edc2c2a")>, <selenium.webdriver.remote.webelement.WebElement (session="9b911f76b683fa87072e9d70915e3522", element="475b6a3a-8c48-4363-ad17-e17af216d46c")>, <selenium.webdriver.remote.webelement.WebElement (session="9b911f76b683fa87072e9d70915e3522", element="ec48eedb-b0d4-490b-b11e-7dcc53b78f9b")>, <selenium.webdriver.remote.webelement.WebElement (session="9b911f76b683fa87072e9d70915e3522", element="2ae49689-a67c-410e-ae7e-465724dd6c8e")>]
+2023-02-15 15:02:38,391 :INFO : test_groceryShopping :Dave's Killer Bread Organic Good Seed Bread - 27oz
+2023-02-15 15:05:04,416 :INFO : test_groceryShopping :Searching ofr first item: BREAD
+2023-02-15 15:05:08,633 :INFO : test_groceryShopping :[<selenium.webdriver.remote.webelement.WebElement (session="427d91e3ee6c98b6517440bfbc6145ad", element="466f79e4-0aae-41a9-8b34-c00bbf258a1b")>, <selenium.webdriver.remote.webelement.WebElement (session="427d91e3ee6c98b6517440bfbc6145ad", element="d110e96c-c3f9-441b-866a-52617c235945")>, <selenium.webdriver.remote.webelement.WebElement (session="427d91e3ee6c98b6517440bfbc6145ad", element="00f8a5ee-5a2a-443f-88d2-91519de52dd8")>, <selenium.webdriver.remote.webelement.WebElement (session="427d91e3ee6c98b6517440bfbc6145ad", element="d590bffd-4add-4fe1-b1ba-8f0fe206ec9f")>, <selenium.webdriver.remote.webelement.WebElement (session="427d91e3ee6c98b6517440bfbc6145ad", element="9e71218e-3248-496f-a488-c80d4b4599a4")>, <selenium.webdriver.remote.webelement.WebElement (session="427d91e3ee6c98b6517440bfbc6145ad", element="3dc662f7-c99c-468d-9189-2383448cf853")>, <selenium.webdriver.remote.webelement.WebElement (session="427d91e3ee6c98b6517440bfbc6145ad", element="ced787e5-cd4c-4112-bcaf-9557177b8765")>, <selenium.webdriver.remote.webelement.WebElement (session="427d91e3ee6c98b6517440bfbc6145ad", element="f80c7784-6a56-4b0e-b576-019f7f79701c")>, <selenium.webdriver.remote.webelement.WebElement (session="427d91e3ee6c98b6517440bfbc6145ad", element="7a31324d-0670-4c04-b8a1-bf5e499379c1")>]
+2023-02-15 15:05:08,747 :INFO : test_groceryShopping :Dave's Killer Bread Organic Good Seed Bread - 27oz
+2023-02-15 15:05:40,925 :INFO : test_groceryShopping :Searching ofr first item: BREAD
+2023-02-15 15:05:45,163 :INFO : test_groceryShopping :[<selenium.webdriver.remote.webelement.WebElement (session="22f6d332030f2bd3034771910fbb9317", element="e378abcf-f24b-446e-a845-c8c4e2da7039")>, <selenium.webdriver.remote.webelement.WebElement (session="22f6d332030f2bd3034771910fbb9317", element="80907f62-3a46-4d43-88f8-208b061501c4")>, <selenium.webdriver.remote.webelement.WebElement (session="22f6d332030f2bd3034771910fbb9317", element="6f0a701b-c838-465c-9aaf-ef2647557956")>, <selenium.webdriver.remote.webelement.WebElement (session="22f6d332030f2bd3034771910fbb9317", element="04d9eca7-79a0-4b6f-9e1b-c790452cde86")>, <selenium.webdriver.remote.webelement.WebElement (session="22f6d332030f2bd3034771910fbb9317", element="fdbf4ac9-2a6b-47a4-9537-79c06d24d311")>, <selenium.webdriver.remote.webelement.WebElement (session="22f6d332030f2bd3034771910fbb9317", element="f9ea1c2f-613d-4665-82d1-0a9d01beff1a")>, <selenium.webdriver.remote.webelement.WebElement (session="22f6d332030f2bd3034771910fbb9317", element="22744e4c-0d3a-46c8-8d83-830f99a38f44")>, <selenium.webdriver.remote.webelement.WebElement (session="22f6d332030f2bd3034771910fbb9317", element="8c14c699-ff04-47ed-9f17-1907115aa3dc")>, <selenium.webdriver.remote.webelement.WebElement (session="22f6d332030f2bd3034771910fbb9317", element="7faf7f73-2060-45ee-a82a-11c9a6c178fa")>]
+2023-02-15 15:05:45,276 :INFO : test_groceryShopping :Dave's Killer Bread Organic Good Seed Bread - 27oz
+2023-02-15 15:09:47,926 :INFO : test_groceryShopping :Searching ofr first item: BREAD
+2023-02-15 15:09:52,160 :INFO : test_groceryShopping :[<selenium.webdriver.remote.webelement.WebElement (session="c6773f07fe3510846f61b09b15d29133", element="72529e4d-5e30-4076-980f-7f31e9eea375")>, <selenium.webdriver.remote.webelement.WebElement (session="c6773f07fe3510846f61b09b15d29133", element="f20440de-8c0c-47f3-909f-8cba86b54af6")>, <selenium.webdriver.remote.webelement.WebElement (session="c6773f07fe3510846f61b09b15d29133", element="4b0db29a-5b3e-4763-bf59-5deb654d9e45")>, <selenium.webdriver.remote.webelement.WebElement (session="c6773f07fe3510846f61b09b15d29133", element="8299f5d6-f97d-4907-8d0d-ebf1b0a3d28d")>, <selenium.webdriver.remote.webelement.WebElement (session="c6773f07fe3510846f61b09b15d29133", element="4516de3d-844b-4fbb-8209-4af33530a317")>, <selenium.webdriver.remote.webelement.WebElement (session="c6773f07fe3510846f61b09b15d29133", element="6b070764-208d-4043-a42a-15b598d260a4")>, <selenium.webdriver.remote.webelement.WebElement (session="c6773f07fe3510846f61b09b15d29133", element="c6452082-7bff-486e-83e4-57a8a1a5678a")>, <selenium.webdriver.remote.webelement.WebElement (session="c6773f07fe3510846f61b09b15d29133", element="fb4430dd-df73-458a-bafc-e214ed63798c")>, <selenium.webdriver.remote.webelement.WebElement (session="c6773f07fe3510846f61b09b15d29133", element="b0cd88fa-bdeb-4e7c-8e58-27fb1c0f123a")>]
+2023-02-15 15:09:52,245 :INFO : test_groceryShopping :Dave's Killer Bread Organic Good Seed Bread - 27oz
+2023-02-15 15:10:15,324 :INFO : test_groceryShopping :Searching ofr first item: BREAD
+2023-02-15 15:10:19,542 :INFO : test_groceryShopping :[<selenium.webdriver.remote.webelement.WebElement (session="b0b34611257050405fb9287ad804b278", element="c7e6bfa3-720f-41c4-9cfd-55d5475cdaf7")>, <selenium.webdriver.remote.webelement.WebElement (session="b0b34611257050405fb9287ad804b278", element="cdbb7d9c-8a39-4bd8-abc8-f353e8061963")>, <selenium.webdriver.remote.webelement.WebElement (session="b0b34611257050405fb9287ad804b278", element="1194809c-b7e4-4af1-a79e-6679201a8179")>, <selenium.webdriver.remote.webelement.WebElement (session="b0b34611257050405fb9287ad804b278", element="ac1088b7-d4d0-4cd0-8392-56c33b615793")>, <selenium.webdriver.remote.webelement.WebElement (session="b0b34611257050405fb9287ad804b278", element="557ca901-99b9-4dc1-a74b-98ead2c1e986")>, <selenium.webdriver.remote.webelement.WebElement (session="b0b34611257050405fb9287ad804b278", element="f131e785-65e0-485e-b0ed-4110e5cb151b")>, <selenium.webdriver.remote.webelement.WebElement (session="b0b34611257050405fb9287ad804b278", element="4b5adc92-d633-4075-a3a4-675e48a0000c")>, <selenium.webdriver.remote.webelement.WebElement (session="b0b34611257050405fb9287ad804b278", element="0ced3009-a887-4833-bdb6-d31da9b0ba1b")>, <selenium.webdriver.remote.webelement.WebElement (session="b0b34611257050405fb9287ad804b278", element="9c06a73b-f34d-41f9-a2a2-49c7059b28a0")>]
+2023-02-15 15:10:19,609 :INFO : test_groceryShopping :Dave's Killer Bread Organic Good Seed Bread - 27oz
+2023-02-15 15:10:57,420 :INFO : test_groceryShopping :Searching ofr first item: BREAD
+2023-02-15 15:11:01,687 :INFO : test_groceryShopping :[<selenium.webdriver.remote.webelement.WebElement (session="6d4eff0c624c1abae61961150d6f226c", element="1d66f671-7438-4abb-bdd6-e5545de3910a")>, <selenium.webdriver.remote.webelement.WebElement (session="6d4eff0c624c1abae61961150d6f226c", element="c04d0cf3-7edb-4a95-91a2-6c59c633d047")>, <selenium.webdriver.remote.webelement.WebElement (session="6d4eff0c624c1abae61961150d6f226c", element="599d7ce2-83bf-4ada-8dea-8bc5dbc5b160")>, <selenium.webdriver.remote.webelement.WebElement (session="6d4eff0c624c1abae61961150d6f226c", element="3d43fc18-d0fd-458c-a306-ef7d4b3082f2")>, <selenium.webdriver.remote.webelement.WebElement (session="6d4eff0c624c1abae61961150d6f226c", element="d442eba9-3513-4e8d-9275-7db6e809f6df")>, <selenium.webdriver.remote.webelement.WebElement (session="6d4eff0c624c1abae61961150d6f226c", element="d12dc44a-7769-4de1-97cf-bb77eb6819ef")>, <selenium.webdriver.remote.webelement.WebElement (session="6d4eff0c624c1abae61961150d6f226c", element="5b03d05f-2e45-44f6-b028-1fe4fa22356a")>, <selenium.webdriver.remote.webelement.WebElement (session="6d4eff0c624c1abae61961150d6f226c", element="00e1aa70-91da-48cb-beed-dbca35d59072")>, <selenium.webdriver.remote.webelement.WebElement (session="6d4eff0c624c1abae61961150d6f226c", element="164ee6ae-76f8-4138-b5b6-d5d28b89072b")>]
+2023-02-15 15:11:01,840 :INFO : test_groceryShopping :Dave's Killer Bread Organic Good Seed Bread - 27oz
+2023-02-15 15:11:48,462 :INFO : test_groceryShopping :Searching ofr first item: BREAD
+2023-02-15 15:11:52,766 :INFO : test_groceryShopping :[<selenium.webdriver.remote.webelement.WebElement (session="3df32549bf2d1190a967759b8e6f44f2", element="22a190a9-bc9c-4ee2-9a6e-35561506273e")>, <selenium.webdriver.remote.webelement.WebElement (session="3df32549bf2d1190a967759b8e6f44f2", element="bc6ac5f0-e3ad-4fad-bf48-a7b888b9d422")>, <selenium.webdriver.remote.webelement.WebElement (session="3df32549bf2d1190a967759b8e6f44f2", element="0d292300-b7ec-42c5-abe2-a83d2a99e948")>, <selenium.webdriver.remote.webelement.WebElement (session="3df32549bf2d1190a967759b8e6f44f2", element="ea8a98e0-848d-4798-ade8-d3bae41bcc96")>, <selenium.webdriver.remote.webelement.WebElement (session="3df32549bf2d1190a967759b8e6f44f2", element="0584eb75-7cc9-4e3e-b301-2713dc872481")>, <selenium.webdriver.remote.webelement.WebElement (session="3df32549bf2d1190a967759b8e6f44f2", element="63d22283-0568-4cc5-af0d-78bc20bd047e")>, <selenium.webdriver.remote.webelement.WebElement (session="3df32549bf2d1190a967759b8e6f44f2", element="a1b0bb7f-fc50-4b09-81c3-82fe1b1ea027")>, <selenium.webdriver.remote.webelement.WebElement (session="3df32549bf2d1190a967759b8e6f44f2", element="c9a6a0cd-baa6-4941-9bf0-7d65b1feb288")>, <selenium.webdriver.remote.webelement.WebElement (session="3df32549bf2d1190a967759b8e6f44f2", element="f88baced-1bf8-4992-bb7e-195eab666070")>]
+2023-02-15 15:11:52,838 :INFO : test_groceryShopping :Dave's Killer Bread Organic Good Seed Bread - 27oz
+2023-02-15 15:13:10,298 :INFO : test_groceryShopping :Searching ofr first item: BREAD
+2023-02-15 15:13:14,485 :INFO : test_groceryShopping :[<selenium.webdriver.remote.webelement.WebElement (session="323d3af65e35082048b4d4362d712376", element="9b196b4d-b48a-4e9e-b82f-624c114adfd1")>, <selenium.webdriver.remote.webelement.WebElement (session="323d3af65e35082048b4d4362d712376", element="e081cb02-8920-447b-be56-2d1faa9c5789")>, <selenium.webdriver.remote.webelement.WebElement (session="323d3af65e35082048b4d4362d712376", element="019dcca8-9cae-4e79-89bc-e88d5f89cc0a")>, <selenium.webdriver.remote.webelement.WebElement (session="323d3af65e35082048b4d4362d712376", element="eff2145d-ea6c-43ea-88b6-8b20047c114e")>, <selenium.webdriver.remote.webelement.WebElement (session="323d3af65e35082048b4d4362d712376", element="b7a3d609-c8cf-4ae0-bf08-e98a86738d12")>, <selenium.webdriver.remote.webelement.WebElement (session="323d3af65e35082048b4d4362d712376", element="843f2f6f-dc7c-4f1b-9d39-6aeedd41ec60")>, <selenium.webdriver.remote.webelement.WebElement (session="323d3af65e35082048b4d4362d712376", element="390777c5-2af2-4edc-915a-091edf4b5390")>, <selenium.webdriver.remote.webelement.WebElement (session="323d3af65e35082048b4d4362d712376", element="892f7d20-705a-4535-a6ac-95dcc86ba2e3")>, <selenium.webdriver.remote.webelement.WebElement (session="323d3af65e35082048b4d4362d712376", element="ade9c097-7d34-4fa1-8d75-b6151ed663f3")>]
+2023-02-15 15:13:14,600 :INFO : test_groceryShopping :Dave's Killer Bread Organic Good Seed Bread - 27oz
+2023-02-15 15:13:16,685 :INFO : test_groceryShopping :Dave's Killer Bread Organic Thin Sliced Good Seed Bread - 20.5oz
+2023-02-15 15:13:16,696 :INFO : test_groceryShopping :Dave's Killer Bread Organic Thin Sliced White Sandwich Bread - 20.5oz
+2023-02-15 15:13:16,707 :INFO : test_groceryShopping :Dave's Killer Bread Organic Raisin' the Roof - 18oz
+2023-02-15 15:14:34,643 :INFO : test_groceryShopping :Searching ofr first item: BREAD
+2023-02-15 15:14:38,860 :INFO : test_groceryShopping :[<selenium.webdriver.remote.webelement.WebElement (session="ce420852b83d1223f75a85521ef0b9d1", element="940fb45b-114b-4c14-ba38-5301627637e2")>, <selenium.webdriver.remote.webelement.WebElement (session="ce420852b83d1223f75a85521ef0b9d1", element="faa68a8c-70a9-4937-90c2-c0f57e5ce119")>, <selenium.webdriver.remote.webelement.WebElement (session="ce420852b83d1223f75a85521ef0b9d1", element="637bbad9-49bf-4a11-97e1-630e070c8dcd")>, <selenium.webdriver.remote.webelement.WebElement (session="ce420852b83d1223f75a85521ef0b9d1", element="9c10fcd2-bb0b-49b0-9135-1dc7a0b85d9b")>, <selenium.webdriver.remote.webelement.WebElement (session="ce420852b83d1223f75a85521ef0b9d1", element="cf8c3ac5-faba-49b7-8420-70743249b3ee")>, <selenium.webdriver.remote.webelement.WebElement (session="ce420852b83d1223f75a85521ef0b9d1", element="416e3069-2530-41f1-88db-c3f00b3839a6")>, <selenium.webdriver.remote.webelement.WebElement (session="ce420852b83d1223f75a85521ef0b9d1", element="4f02405c-e81a-427e-97f4-a45fa33d4cc3")>, <selenium.webdriver.remote.webelement.WebElement (session="ce420852b83d1223f75a85521ef0b9d1", element="8345ae31-6fbd-4c00-b445-1d75b2ef15e5")>, <selenium.webdriver.remote.webelement.WebElement (session="ce420852b83d1223f75a85521ef0b9d1", element="29dfa7e4-dbfe-4984-8d91-f6843b42c555")>]
+2023-02-15 15:14:39,049 :INFO : test_groceryShopping :Dave's Killer Bread Organic Good Seed Bread - 27oz
+2023-02-15 15:45:43,284 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 15:45:47,490 :INFO : test_groceryShopping :[<selenium.webdriver.remote.webelement.WebElement (session="92f5b8b8ca08c446c8ff1e9294d719dd", element="1d904211-ae94-4d49-bbcf-a6c3dd7ab288")>, <selenium.webdriver.remote.webelement.WebElement (session="92f5b8b8ca08c446c8ff1e9294d719dd", element="d9e7bcd9-297b-4c18-9ed3-3fda9fe7d5d4")>, <selenium.webdriver.remote.webelement.WebElement (session="92f5b8b8ca08c446c8ff1e9294d719dd", element="4948f491-6920-4991-b59c-c36c5bd036f7")>, <selenium.webdriver.remote.webelement.WebElement (session="92f5b8b8ca08c446c8ff1e9294d719dd", element="a5b823f2-9673-4d49-a27c-7c1517409d58")>, <selenium.webdriver.remote.webelement.WebElement (session="92f5b8b8ca08c446c8ff1e9294d719dd", element="07b11afc-ae74-493f-b5dd-f0e547036966")>, <selenium.webdriver.remote.webelement.WebElement (session="92f5b8b8ca08c446c8ff1e9294d719dd", element="ee95f11b-c70a-4a0c-85e7-a822db0da5b0")>, <selenium.webdriver.remote.webelement.WebElement (session="92f5b8b8ca08c446c8ff1e9294d719dd", element="24aca27f-0a32-4a3f-a1e6-ddddb9af11c9")>, <selenium.webdriver.remote.webelement.WebElement (session="92f5b8b8ca08c446c8ff1e9294d719dd", element="17d0f29d-4d4f-4dde-a379-9a1670654fc3")>, <selenium.webdriver.remote.webelement.WebElement (session="92f5b8b8ca08c446c8ff1e9294d719dd", element="62233763-2521-4aa8-abcb-b1e5a73dbb35")>]
+2023-02-15 15:45:47,595 :INFO : test_groceryShopping :Dave's Killer Bread Organic Good Seed Bread - 27oz
+2023-02-15 15:47:48,888 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 15:47:53,049 :INFO : test_groceryShopping :[<selenium.webdriver.remote.webelement.WebElement (session="f9ed5e88acf2efbc97de7319bdc4bcc9", element="ca0cb911-fc54-4040-8ad1-74779a709976")>, <selenium.webdriver.remote.webelement.WebElement (session="f9ed5e88acf2efbc97de7319bdc4bcc9", element="a150031e-4569-4006-a1a7-26ef14b85207")>, <selenium.webdriver.remote.webelement.WebElement (session="f9ed5e88acf2efbc97de7319bdc4bcc9", element="d48b5335-860a-4754-8bde-b92562f59ca5")>, <selenium.webdriver.remote.webelement.WebElement (session="f9ed5e88acf2efbc97de7319bdc4bcc9", element="400ccf15-0c8b-4c54-b1e0-16126d82028b")>, <selenium.webdriver.remote.webelement.WebElement (session="f9ed5e88acf2efbc97de7319bdc4bcc9", element="49d57238-c13a-48e4-a9e1-1bc24ba42912")>, <selenium.webdriver.remote.webelement.WebElement (session="f9ed5e88acf2efbc97de7319bdc4bcc9", element="0cbbb48e-4b5d-4fbe-855a-55f88a771c97")>, <selenium.webdriver.remote.webelement.WebElement (session="f9ed5e88acf2efbc97de7319bdc4bcc9", element="f1c37d89-bef0-4d4d-91c4-684996bca75a")>, <selenium.webdriver.remote.webelement.WebElement (session="f9ed5e88acf2efbc97de7319bdc4bcc9", element="6cafcd1c-9024-448c-b2cd-8ddcb1c055ef")>, <selenium.webdriver.remote.webelement.WebElement (session="f9ed5e88acf2efbc97de7319bdc4bcc9", element="6350eec7-75e1-4b04-bb91-4f966058691b")>]
+2023-02-15 15:47:53,194 :INFO : test_groceryShopping :Dave's Killer Bread Organic Good Seed Bread - 27oz
+2023-02-15 15:48:30,939 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 15:48:35,131 :INFO : test_groceryShopping :[<selenium.webdriver.remote.webelement.WebElement (session="0e543d121c1586ab91dd3e09121456c3", element="204289aa-0afa-4847-906f-263aed38120b")>, <selenium.webdriver.remote.webelement.WebElement (session="0e543d121c1586ab91dd3e09121456c3", element="6da3fd15-90ab-4443-82e9-646e5faeaf1c")>, <selenium.webdriver.remote.webelement.WebElement (session="0e543d121c1586ab91dd3e09121456c3", element="0ff0da88-6bd7-4b46-91bc-82b41e207256")>, <selenium.webdriver.remote.webelement.WebElement (session="0e543d121c1586ab91dd3e09121456c3", element="961e98da-eb08-4246-8cc0-fa878b3afa30")>, <selenium.webdriver.remote.webelement.WebElement (session="0e543d121c1586ab91dd3e09121456c3", element="6824c2ab-88f5-433f-912d-10af3b2ff3a2")>, <selenium.webdriver.remote.webelement.WebElement (session="0e543d121c1586ab91dd3e09121456c3", element="04a7e694-0b29-449a-ace2-4d8cad9b35be")>, <selenium.webdriver.remote.webelement.WebElement (session="0e543d121c1586ab91dd3e09121456c3", element="6b4711a7-2dce-446f-b06a-82b3f9255543")>, <selenium.webdriver.remote.webelement.WebElement (session="0e543d121c1586ab91dd3e09121456c3", element="6094b0e8-e8a1-4538-90b6-93db35209cd7")>, <selenium.webdriver.remote.webelement.WebElement (session="0e543d121c1586ab91dd3e09121456c3", element="de8192d4-389b-4ee2-9254-d7adeaf2963c")>]
+2023-02-15 15:48:35,242 :INFO : test_groceryShopping :Dave's Killer Bread Organic Good Seed Bread - 27oz
+2023-02-15 15:48:50,568 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 15:48:54,735 :INFO : test_groceryShopping :[<selenium.webdriver.remote.webelement.WebElement (session="8daac8c9dafb0d716971eb098d845e87", element="594c9973-2ecd-4685-9f2a-7a94afaa72df")>, <selenium.webdriver.remote.webelement.WebElement (session="8daac8c9dafb0d716971eb098d845e87", element="1400f2a2-17a1-4dab-a560-433b72ec0f10")>, <selenium.webdriver.remote.webelement.WebElement (session="8daac8c9dafb0d716971eb098d845e87", element="ec4ad331-d094-41a3-aa72-300846980542")>, <selenium.webdriver.remote.webelement.WebElement (session="8daac8c9dafb0d716971eb098d845e87", element="c4c6452c-442b-439f-9d75-db8f40cd2cf6")>, <selenium.webdriver.remote.webelement.WebElement (session="8daac8c9dafb0d716971eb098d845e87", element="46076723-d443-4335-b8f3-1625e934972d")>, <selenium.webdriver.remote.webelement.WebElement (session="8daac8c9dafb0d716971eb098d845e87", element="6bae0492-35b1-4e4b-8698-f14864965169")>, <selenium.webdriver.remote.webelement.WebElement (session="8daac8c9dafb0d716971eb098d845e87", element="60aeb447-8e43-40ad-9135-8b9dc4015a42")>, <selenium.webdriver.remote.webelement.WebElement (session="8daac8c9dafb0d716971eb098d845e87", element="e745f849-bb0c-4aa0-bfdf-85f61d4fae99")>, <selenium.webdriver.remote.webelement.WebElement (session="8daac8c9dafb0d716971eb098d845e87", element="0bde8b89-b8de-47ff-a155-a224cd19be31")>]
+2023-02-15 15:48:54,836 :INFO : test_groceryShopping :Dave's Killer Bread Organic Good Seed Bread - 27oz
+2023-02-15 15:49:22,966 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 15:49:27,244 :INFO : test_groceryShopping :[<selenium.webdriver.remote.webelement.WebElement (session="d68a0f3999a1c4dea3f9b32e4078aefb", element="8bfeb1a7-fe2d-4d47-ba65-b57fb225663b")>, <selenium.webdriver.remote.webelement.WebElement (session="d68a0f3999a1c4dea3f9b32e4078aefb", element="5c43bfea-be6d-4fa9-af22-d17dc5b87887")>, <selenium.webdriver.remote.webelement.WebElement (session="d68a0f3999a1c4dea3f9b32e4078aefb", element="2f13364b-322b-408c-872a-35daffb87752")>, <selenium.webdriver.remote.webelement.WebElement (session="d68a0f3999a1c4dea3f9b32e4078aefb", element="783cd358-c8d8-4562-8819-a41bd133c641")>, <selenium.webdriver.remote.webelement.WebElement (session="d68a0f3999a1c4dea3f9b32e4078aefb", element="c280b32a-9a82-4c7b-86c3-b359f2113502")>, <selenium.webdriver.remote.webelement.WebElement (session="d68a0f3999a1c4dea3f9b32e4078aefb", element="46c67e8d-1942-4dcb-9fea-4ddd55930f12")>, <selenium.webdriver.remote.webelement.WebElement (session="d68a0f3999a1c4dea3f9b32e4078aefb", element="be7e7fa9-73f2-4247-9c29-ac562a135081")>, <selenium.webdriver.remote.webelement.WebElement (session="d68a0f3999a1c4dea3f9b32e4078aefb", element="53fd9050-8d78-4a8b-9b30-7378ca52a151")>, <selenium.webdriver.remote.webelement.WebElement (session="d68a0f3999a1c4dea3f9b32e4078aefb", element="d2c415d4-82c6-473d-8dcb-93a4bc1544a3")>]
+2023-02-15 15:49:27,357 :INFO : test_groceryShopping :Dave's Killer Bread Organic Good Seed Bread - 27oz
+2023-02-15 15:50:42,085 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 15:50:46,344 :INFO : test_groceryShopping :[<selenium.webdriver.remote.webelement.WebElement (session="173d9670c296639b0182efdbf478f581", element="4f99794d-6546-4b27-9c1d-eb32b7b5114f")>, <selenium.webdriver.remote.webelement.WebElement (session="173d9670c296639b0182efdbf478f581", element="749eb706-e6f4-4fec-8d5a-4e437579843f")>, <selenium.webdriver.remote.webelement.WebElement (session="173d9670c296639b0182efdbf478f581", element="784e97be-d115-40a6-97fa-c77050e6a968")>, <selenium.webdriver.remote.webelement.WebElement (session="173d9670c296639b0182efdbf478f581", element="12b5b39b-ff8f-47a1-869f-2295977b5815")>, <selenium.webdriver.remote.webelement.WebElement (session="173d9670c296639b0182efdbf478f581", element="7fb4c0f3-b2d4-4982-9165-7dfcd3339190")>, <selenium.webdriver.remote.webelement.WebElement (session="173d9670c296639b0182efdbf478f581", element="017de54e-567f-4ec5-95fd-45da16c51d53")>, <selenium.webdriver.remote.webelement.WebElement (session="173d9670c296639b0182efdbf478f581", element="2d99e7c4-2c5b-49d2-9653-81a101c21b81")>, <selenium.webdriver.remote.webelement.WebElement (session="173d9670c296639b0182efdbf478f581", element="0dfe8caa-67a4-456e-a83a-aec338fb091a")>, <selenium.webdriver.remote.webelement.WebElement (session="173d9670c296639b0182efdbf478f581", element="eb1c0867-baab-4e74-95a9-67b539047f76")>]
+2023-02-15 15:50:46,565 :INFO : test_groceryShopping :Dave's Killer Bread Organic Good Seed Bread - 27oz
+2023-02-15 15:53:27,681 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 15:53:31,952 :INFO : test_groceryShopping :[<selenium.webdriver.remote.webelement.WebElement (session="522a6bbb87c18b7b35a7554d2d864c74", element="d5c36e78-2243-41e4-814b-f5f0669fdbeb")>, <selenium.webdriver.remote.webelement.WebElement (session="522a6bbb87c18b7b35a7554d2d864c74", element="e687b546-e0a1-4a02-9f77-df41f8305475")>, <selenium.webdriver.remote.webelement.WebElement (session="522a6bbb87c18b7b35a7554d2d864c74", element="12b73402-4d23-4d8b-9cee-5740f6ec63eb")>, <selenium.webdriver.remote.webelement.WebElement (session="522a6bbb87c18b7b35a7554d2d864c74", element="8dd82074-955a-4233-8ab7-dc6b2be46190")>, <selenium.webdriver.remote.webelement.WebElement (session="522a6bbb87c18b7b35a7554d2d864c74", element="685a8d2d-7fa8-4c70-ac50-b6f6db393fcb")>, <selenium.webdriver.remote.webelement.WebElement (session="522a6bbb87c18b7b35a7554d2d864c74", element="750cd117-02d5-44e5-85d1-b96facd1b70e")>, <selenium.webdriver.remote.webelement.WebElement (session="522a6bbb87c18b7b35a7554d2d864c74", element="7d2d5363-b556-49a5-b726-d381dc019dbd")>, <selenium.webdriver.remote.webelement.WebElement (session="522a6bbb87c18b7b35a7554d2d864c74", element="6f6122a1-0225-41cd-82b4-5f64e73d987c")>, <selenium.webdriver.remote.webelement.WebElement (session="522a6bbb87c18b7b35a7554d2d864c74", element="bd1ba5e3-7949-48f8-a181-7c8cd0ac46d3")>]
+2023-02-15 15:53:32,026 :INFO : test_groceryShopping :Dave's Killer Bread Organic Good Seed Bread - 27oz
+2023-02-15 15:54:47,867 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 15:54:52,030 :INFO : test_groceryShopping :[<selenium.webdriver.remote.webelement.WebElement (session="36b25293c1ed799ab89fd8342af7bfef", element="478650db-28a9-40b0-961e-c491dabfad3c")>, <selenium.webdriver.remote.webelement.WebElement (session="36b25293c1ed799ab89fd8342af7bfef", element="0534ca82-ac2e-4b2d-8701-c3f01154db3c")>, <selenium.webdriver.remote.webelement.WebElement (session="36b25293c1ed799ab89fd8342af7bfef", element="9ce11e75-a25d-45a7-bba0-16c8dce96470")>, <selenium.webdriver.remote.webelement.WebElement (session="36b25293c1ed799ab89fd8342af7bfef", element="f6404d2b-e584-4c7d-b560-519ed6b807c6")>, <selenium.webdriver.remote.webelement.WebElement (session="36b25293c1ed799ab89fd8342af7bfef", element="acf2c52c-f43c-4ab4-a8cc-217213f73345")>, <selenium.webdriver.remote.webelement.WebElement (session="36b25293c1ed799ab89fd8342af7bfef", element="bab3e8ca-c019-411e-9880-4983017c89f1")>, <selenium.webdriver.remote.webelement.WebElement (session="36b25293c1ed799ab89fd8342af7bfef", element="5d1e0d5f-0d58-46ec-963a-8e4a58f10346")>, <selenium.webdriver.remote.webelement.WebElement (session="36b25293c1ed799ab89fd8342af7bfef", element="ce51d02f-9853-406a-a00a-ffc186c69937")>, <selenium.webdriver.remote.webelement.WebElement (session="36b25293c1ed799ab89fd8342af7bfef", element="55daab43-a289-4987-8f90-303b347d56b3")>]
+2023-02-15 15:54:52,106 :INFO : test_groceryShopping :Dave's Killer Bread Organic Good Seed Bread - 27oz
+2023-02-15 15:55:35,328 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 15:55:39,536 :INFO : test_groceryShopping :[<selenium.webdriver.remote.webelement.WebElement (session="2715170014f6cf9d87dabc71ee6f5077", element="f148794b-9be5-4af6-b9ef-3894f4d65d2e")>, <selenium.webdriver.remote.webelement.WebElement (session="2715170014f6cf9d87dabc71ee6f5077", element="410e3db4-2fea-48d7-9a60-58bfb7346325")>, <selenium.webdriver.remote.webelement.WebElement (session="2715170014f6cf9d87dabc71ee6f5077", element="27ed469d-baab-4b84-a845-c6ec8492fa63")>, <selenium.webdriver.remote.webelement.WebElement (session="2715170014f6cf9d87dabc71ee6f5077", element="20308e6c-3bcc-429b-b71f-5d98e31dfea3")>, <selenium.webdriver.remote.webelement.WebElement (session="2715170014f6cf9d87dabc71ee6f5077", element="98208bb1-4c15-4183-8cec-3c6ceba1edfb")>, <selenium.webdriver.remote.webelement.WebElement (session="2715170014f6cf9d87dabc71ee6f5077", element="c61db3a9-9e0c-41c8-862f-617f44a736c7")>, <selenium.webdriver.remote.webelement.WebElement (session="2715170014f6cf9d87dabc71ee6f5077", element="4ddf705a-6ed1-46d8-b59e-e8ee1629c5ba")>, <selenium.webdriver.remote.webelement.WebElement (session="2715170014f6cf9d87dabc71ee6f5077", element="e25ba132-9677-4195-a6f6-86093be57313")>, <selenium.webdriver.remote.webelement.WebElement (session="2715170014f6cf9d87dabc71ee6f5077", element="0b6f1aa4-e8c4-4360-8569-ad86fe350078")>]
+2023-02-15 15:55:39,552 :INFO : test_groceryShopping :Dave's Killer Bread Organic Good Seed Bread - 27oz
+2023-02-15 15:56:48,299 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 15:56:52,459 :INFO : test_groceryShopping :[<selenium.webdriver.remote.webelement.WebElement (session="76c1a01025e204af3d4821e84a42dde6", element="c425d3e4-6fc4-4f4b-8129-2b9c13f0679a")>, <selenium.webdriver.remote.webelement.WebElement (session="76c1a01025e204af3d4821e84a42dde6", element="c55afd97-1c7d-4564-a163-c3c66f927d4e")>, <selenium.webdriver.remote.webelement.WebElement (session="76c1a01025e204af3d4821e84a42dde6", element="0368df88-e743-4acd-b2a3-235d11144994")>, <selenium.webdriver.remote.webelement.WebElement (session="76c1a01025e204af3d4821e84a42dde6", element="4aad6757-001d-44a4-ab47-e0b6aff8b942")>, <selenium.webdriver.remote.webelement.WebElement (session="76c1a01025e204af3d4821e84a42dde6", element="fd9dcd3b-5ac2-44fb-a3e7-baeed3aef8f8")>, <selenium.webdriver.remote.webelement.WebElement (session="76c1a01025e204af3d4821e84a42dde6", element="0606906f-4599-4460-824f-98502e7b7b0b")>, <selenium.webdriver.remote.webelement.WebElement (session="76c1a01025e204af3d4821e84a42dde6", element="eca22090-6e65-4081-9eed-4f5cbfa1f5e6")>, <selenium.webdriver.remote.webelement.WebElement (session="76c1a01025e204af3d4821e84a42dde6", element="3774e3d3-f75a-4f31-8559-ec448c911847")>, <selenium.webdriver.remote.webelement.WebElement (session="76c1a01025e204af3d4821e84a42dde6", element="fa1f595a-fd33-49c0-9cc7-c09c6e19f6ab")>]
+2023-02-15 15:56:52,572 :INFO : test_groceryShopping :Dave's Killer Bread Organic Good Seed Bread - 27oz
+2023-02-15 15:59:03,928 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 15:59:08,168 :INFO : test_groceryShopping :[<selenium.webdriver.remote.webelement.WebElement (session="7ff5929a4933d71437a30fdcbe523db3", element="e5bb2a5a-3af7-446c-820c-d69369848fb9")>, <selenium.webdriver.remote.webelement.WebElement (session="7ff5929a4933d71437a30fdcbe523db3", element="6b38a762-622c-497f-b7d7-3e6915892cb1")>, <selenium.webdriver.remote.webelement.WebElement (session="7ff5929a4933d71437a30fdcbe523db3", element="cf19efa3-dbc9-47db-b4ab-306f13bb98bd")>, <selenium.webdriver.remote.webelement.WebElement (session="7ff5929a4933d71437a30fdcbe523db3", element="3749909d-5f85-4cc6-8626-b8ebbdca9d06")>, <selenium.webdriver.remote.webelement.WebElement (session="7ff5929a4933d71437a30fdcbe523db3", element="7571e5f1-3bb0-47d0-b3f1-4750060e8278")>, <selenium.webdriver.remote.webelement.WebElement (session="7ff5929a4933d71437a30fdcbe523db3", element="66d5b062-c393-43d1-a895-5a6bec15e28f")>, <selenium.webdriver.remote.webelement.WebElement (session="7ff5929a4933d71437a30fdcbe523db3", element="7bf5b043-409b-4873-88ed-26cddebb6d84")>, <selenium.webdriver.remote.webelement.WebElement (session="7ff5929a4933d71437a30fdcbe523db3", element="66175549-0241-4c0c-b2c2-e3cabb487b2b")>, <selenium.webdriver.remote.webelement.WebElement (session="7ff5929a4933d71437a30fdcbe523db3", element="9fdb3984-f141-4275-819b-148fbdcc352f")>]
+2023-02-15 15:59:08,272 :INFO : test_groceryShopping :Dave's Killer Bread Organic Good Seed Bread - 27oz
+2023-02-15 16:00:31,652 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 16:00:35,833 :INFO : test_groceryShopping :[<selenium.webdriver.remote.webelement.WebElement (session="7e239e4dbcb07371f86595ec695c20e3", element="01b019e3-21fb-4127-9aa6-331920251d90")>, <selenium.webdriver.remote.webelement.WebElement (session="7e239e4dbcb07371f86595ec695c20e3", element="ec753642-8f24-4bd0-a97b-425f4d73bc4f")>, <selenium.webdriver.remote.webelement.WebElement (session="7e239e4dbcb07371f86595ec695c20e3", element="773ac4a8-c83c-4430-9f71-54aa53348625")>, <selenium.webdriver.remote.webelement.WebElement (session="7e239e4dbcb07371f86595ec695c20e3", element="32a66e69-fc6c-4c7b-94a3-26e1cdeb91ce")>, <selenium.webdriver.remote.webelement.WebElement (session="7e239e4dbcb07371f86595ec695c20e3", element="108f70ab-3c07-4a49-ad7c-6c3cd5188b72")>, <selenium.webdriver.remote.webelement.WebElement (session="7e239e4dbcb07371f86595ec695c20e3", element="b74b9b81-f887-4fbc-9e0d-d4c3ef79fd01")>, <selenium.webdriver.remote.webelement.WebElement (session="7e239e4dbcb07371f86595ec695c20e3", element="cdf0c793-ba15-41a4-9175-f84be34347d4")>, <selenium.webdriver.remote.webelement.WebElement (session="7e239e4dbcb07371f86595ec695c20e3", element="c682b310-a193-4189-b22e-038e47bd01e8")>, <selenium.webdriver.remote.webelement.WebElement (session="7e239e4dbcb07371f86595ec695c20e3", element="5fbe1a82-e4cf-424e-b764-e0b203ceaad7")>]
+2023-02-15 16:00:35,911 :INFO : test_groceryShopping :Dave's Killer Bread Organic Good Seed Bread - 27oz
+2023-02-15 16:00:38,033 :INFO : test_groceryShopping :<selenium.webdriver.remote.webelement.WebElement (session="7e239e4dbcb07371f86595ec695c20e3", element="01b019e3-21fb-4127-9aa6-331920251d90")>
+2023-02-15 16:02:12,852 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 16:02:17,112 :INFO : test_groceryShopping :[<selenium.webdriver.remote.webelement.WebElement (session="868b39d8d407d6c11a0c9848aaabfb8f", element="9158ca47-3f4b-493c-ac78-09d5f8a4097e")>, <selenium.webdriver.remote.webelement.WebElement (session="868b39d8d407d6c11a0c9848aaabfb8f", element="65585145-17da-4fc4-920f-fb305396bc53")>, <selenium.webdriver.remote.webelement.WebElement (session="868b39d8d407d6c11a0c9848aaabfb8f", element="6f884083-f417-4ea2-9f20-05b3e02e1bdc")>, <selenium.webdriver.remote.webelement.WebElement (session="868b39d8d407d6c11a0c9848aaabfb8f", element="1771dfeb-a6d4-4a3d-8859-6a004d475693")>, <selenium.webdriver.remote.webelement.WebElement (session="868b39d8d407d6c11a0c9848aaabfb8f", element="b176944e-0d0b-4b81-be0a-85857fa5e77c")>, <selenium.webdriver.remote.webelement.WebElement (session="868b39d8d407d6c11a0c9848aaabfb8f", element="7e774eab-e717-4836-94e6-3f1cc97034e8")>, <selenium.webdriver.remote.webelement.WebElement (session="868b39d8d407d6c11a0c9848aaabfb8f", element="223ea3fe-b755-4709-9400-3302568982ab")>, <selenium.webdriver.remote.webelement.WebElement (session="868b39d8d407d6c11a0c9848aaabfb8f", element="26f7f253-62c7-42d2-9309-57110f6d031c")>, <selenium.webdriver.remote.webelement.WebElement (session="868b39d8d407d6c11a0c9848aaabfb8f", element="49f37fef-3178-4802-8b9e-357005d758f1")>]
+2023-02-15 16:02:17,241 :INFO : test_groceryShopping :Dave's Killer Bread Organic Good Seed Bread - 27oz
+2023-02-15 16:02:19,316 :INFO : test_groceryShopping :<selenium.webdriver.remote.webelement.WebElement (session="868b39d8d407d6c11a0c9848aaabfb8f", element="9158ca47-3f4b-493c-ac78-09d5f8a4097e")>
+2023-02-15 16:05:17,484 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 16:05:21,656 :INFO : test_groceryShopping :[<selenium.webdriver.remote.webelement.WebElement (session="3cef209d7685b2c6aba80862018eb182", element="15f3b6a1-dcd4-46a9-93df-10a007748158")>, <selenium.webdriver.remote.webelement.WebElement (session="3cef209d7685b2c6aba80862018eb182", element="7cdaed52-f06f-41a0-8d98-f77c0c9741c9")>, <selenium.webdriver.remote.webelement.WebElement (session="3cef209d7685b2c6aba80862018eb182", element="6f3db2a9-e693-49d3-9d9c-0d92ae013589")>, <selenium.webdriver.remote.webelement.WebElement (session="3cef209d7685b2c6aba80862018eb182", element="188899ea-a9d3-4f22-b56f-6963a2e1934c")>, <selenium.webdriver.remote.webelement.WebElement (session="3cef209d7685b2c6aba80862018eb182", element="3829cb5c-5373-4db0-9f64-ecd4f2a5db70")>, <selenium.webdriver.remote.webelement.WebElement (session="3cef209d7685b2c6aba80862018eb182", element="8fe076dd-0888-41b7-8d89-d35001540afa")>, <selenium.webdriver.remote.webelement.WebElement (session="3cef209d7685b2c6aba80862018eb182", element="d5a63b5d-786c-41c1-b198-8b438b3a832b")>, <selenium.webdriver.remote.webelement.WebElement (session="3cef209d7685b2c6aba80862018eb182", element="0a65601f-9b4e-4568-8b13-e33485a17a4b")>, <selenium.webdriver.remote.webelement.WebElement (session="3cef209d7685b2c6aba80862018eb182", element="d6e2c6fb-5931-4210-b4e5-fe859690099c")>]
+2023-02-15 16:05:21,757 :INFO : test_groceryShopping :Dave's Killer Bread Organic Good Seed Bread - 27oz
+2023-02-15 16:05:23,855 :INFO : test_groceryShopping :<selenium.webdriver.remote.webelement.WebElement (session="3cef209d7685b2c6aba80862018eb182", element="15f3b6a1-dcd4-46a9-93df-10a007748158")>
+2023-02-15 16:27:09,456 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 16:29:39,748 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 16:30:49,416 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 16:32:55,264 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 16:33:42,060 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 16:33:59,250 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 16:34:30,995 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 16:35:00,847 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 16:35:22,164 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 16:37:11,672 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 16:39:46,887 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 16:40:08,354 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 16:43:03,780 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 16:44:17,941 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 16:49:00,053 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 16:51:55,712 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 16:52:00,005 :INFO : findItem :0
+2023-02-15 16:53:33,761 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 16:53:37,890 :INFO : findItem :0
+2023-02-15 16:55:30,520 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 16:55:34,804 :INFO : findItem :Element index is: 0
+2023-02-15 17:04:11,994 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 17:04:16,466 :INFO : findItem :Element index is: 0
+2023-02-15 17:06:54,694 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 17:06:59,004 :INFO : findItem :Element index is: 0
+2023-02-15 17:12:26,161 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 17:14:29,844 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 17:18:06,245 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 17:18:10,528 :INFO : findItem :Element index is: 0
+2023-02-15 17:22:30,557 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 17:22:34,888 :INFO : findItem :Element index is: 0
+2023-02-15 17:24:19,784 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 17:24:24,047 :INFO : findItem :Element index is: 0
+2023-02-15 17:26:42,427 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 17:26:46,741 :INFO : findItem :Element index is: 0
+2023-02-15 17:28:18,173 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 17:28:22,368 :INFO : findItem :Element index is: 0
+2023-02-15 17:34:13,259 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 17:35:40,532 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 17:38:24,943 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 17:38:29,457 :INFO : findItem :Element index is: 0
+2023-02-15 17:38:36,316 :INFO : test_groceryShopping :Searching for second item: MILK
+2023-02-15 17:38:42,032 :INFO : findItem :Element index is: 0
+2023-02-15 17:38:42,032 :INFO : findItem :Element index is: 0
+2023-02-15 17:38:42,050 :INFO : findItem :Element index is: 1
+2023-02-15 17:38:42,050 :INFO : findItem :Element index is: 1
+2023-02-15 17:38:42,091 :INFO : findItem :Element index is: 2
+2023-02-15 17:38:42,091 :INFO : findItem :Element index is: 2
+2023-02-15 17:38:42,098 :INFO : findItem :Element index is: 3
+2023-02-15 17:38:42,098 :INFO : findItem :Element index is: 3
+2023-02-15 17:38:42,104 :INFO : findItem :Element index is: 4
+2023-02-15 17:38:42,104 :INFO : findItem :Element index is: 4
+2023-02-15 17:38:42,110 :INFO : findItem :Element index is: 5
+2023-02-15 17:38:42,110 :INFO : findItem :Element index is: 5
+2023-02-15 17:38:42,116 :INFO : findItem :Element index is: 6
+2023-02-15 17:38:42,116 :INFO : findItem :Element index is: 6
+2023-02-15 17:38:42,124 :INFO : findItem :Element index is: 7
+2023-02-15 17:38:42,124 :INFO : findItem :Element index is: 7
+2023-02-15 17:38:42,139 :INFO : findItem :Element index is: 8
+2023-02-15 17:38:42,139 :INFO : findItem :Element index is: 8
+2023-02-15 18:52:38,519 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 18:52:42,982 :INFO : findItem :Element index is: 0
+2023-02-15 18:52:49,797 :INFO : test_groceryShopping :Searching for second item: MILK
+2023-02-15 18:52:54,881 :INFO : findItem :Element index is: 0
+2023-02-15 18:52:54,881 :INFO : findItem :Element index is: 0
+2023-02-15 18:52:54,888 :INFO : findItem :Element index is: 1
+2023-02-15 18:52:54,888 :INFO : findItem :Element index is: 1
+2023-02-15 18:52:54,895 :INFO : findItem :Element index is: 2
+2023-02-15 18:52:54,895 :INFO : findItem :Element index is: 2
+2023-02-15 18:52:54,901 :INFO : findItem :Element index is: 3
+2023-02-15 18:52:54,901 :INFO : findItem :Element index is: 3
+2023-02-15 18:52:54,907 :INFO : findItem :Element index is: 4
+2023-02-15 18:52:54,907 :INFO : findItem :Element index is: 4
+2023-02-15 18:52:54,913 :INFO : findItem :Element index is: 5
+2023-02-15 18:52:54,913 :INFO : findItem :Element index is: 5
+2023-02-15 18:52:54,918 :INFO : findItem :Element index is: 6
+2023-02-15 18:52:54,918 :INFO : findItem :Element index is: 6
+2023-02-15 18:52:54,924 :INFO : findItem :Element index is: 7
+2023-02-15 18:52:54,924 :INFO : findItem :Element index is: 7
+2023-02-15 18:52:54,930 :INFO : findItem :Element index is: 8
+2023-02-15 18:52:54,930 :INFO : findItem :Element index is: 8
+2023-02-15 18:56:39,151 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 18:56:43,479 :INFO : findItem :Element index is: 0
+2023-02-15 18:56:51,953 :INFO : test_groceryShopping :Searching for second item: MILK
+2023-02-15 18:56:56,826 :INFO : findItem :Element index is: 0
+2023-02-15 18:56:56,826 :INFO : findItem :Element index is: 0
+2023-02-15 18:56:56,868 :INFO : findItem :Element index is: 1
+2023-02-15 18:56:56,868 :INFO : findItem :Element index is: 1
+2023-02-15 18:56:56,874 :INFO : findItem :Element index is: 2
+2023-02-15 18:56:56,874 :INFO : findItem :Element index is: 2
+2023-02-15 18:56:56,880 :INFO : findItem :Element index is: 3
+2023-02-15 18:56:56,880 :INFO : findItem :Element index is: 3
+2023-02-15 18:56:56,885 :INFO : findItem :Element index is: 4
+2023-02-15 18:56:56,885 :INFO : findItem :Element index is: 4
+2023-02-15 18:56:56,891 :INFO : findItem :Element index is: 5
+2023-02-15 18:56:56,891 :INFO : findItem :Element index is: 5
+2023-02-15 18:56:56,896 :INFO : findItem :Element index is: 6
+2023-02-15 18:56:56,896 :INFO : findItem :Element index is: 6
+2023-02-15 18:56:56,904 :INFO : findItem :Element index is: 7
+2023-02-15 18:56:56,904 :INFO : findItem :Element index is: 7
+2023-02-15 18:56:56,921 :INFO : findItem :Element index is: 8
+2023-02-15 18:56:56,921 :INFO : findItem :Element index is: 8
+2023-02-15 18:57:42,099 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 18:57:46,394 :INFO : findItem :Element index is: 0
+2023-02-15 18:57:55,352 :INFO : test_groceryShopping :Searching for second item: MILK
+2023-02-15 18:58:00,391 :INFO : findItem :Element index is: 0
+2023-02-15 18:58:00,391 :INFO : findItem :Element index is: 0
+2023-02-15 18:58:00,400 :INFO : findItem :Element index is: 1
+2023-02-15 18:58:00,400 :INFO : findItem :Element index is: 1
+2023-02-15 18:58:00,405 :INFO : findItem :Element index is: 2
+2023-02-15 18:58:00,405 :INFO : findItem :Element index is: 2
+2023-02-15 18:58:00,411 :INFO : findItem :Element index is: 3
+2023-02-15 18:58:00,411 :INFO : findItem :Element index is: 3
+2023-02-15 18:58:00,443 :INFO : findItem :Element index is: 4
+2023-02-15 18:58:00,443 :INFO : findItem :Element index is: 4
+2023-02-15 18:58:00,447 :INFO : findItem :Element index is: 5
+2023-02-15 18:58:00,447 :INFO : findItem :Element index is: 5
+2023-02-15 18:58:09,390 :INFO : test_groceryShopping :Searching for second item: EGG
+2023-02-15 18:58:14,526 :INFO : findItem :Element index is: 0
+2023-02-15 18:58:14,526 :INFO : findItem :Element index is: 0
+2023-02-15 18:58:14,526 :INFO : findItem :Element index is: 0
+2023-02-15 18:58:14,540 :INFO : findItem :Element index is: 1
+2023-02-15 18:58:14,540 :INFO : findItem :Element index is: 1
+2023-02-15 18:58:14,540 :INFO : findItem :Element index is: 1
+2023-02-15 18:58:14,547 :INFO : findItem :Element index is: 2
+2023-02-15 18:58:14,547 :INFO : findItem :Element index is: 2
+2023-02-15 18:58:14,547 :INFO : findItem :Element index is: 2
+2023-02-15 18:58:14,555 :INFO : findItem :Element index is: 3
+2023-02-15 18:58:14,555 :INFO : findItem :Element index is: 3
+2023-02-15 18:58:14,555 :INFO : findItem :Element index is: 3
+2023-02-15 18:58:14,582 :INFO : findItem :Element index is: 4
+2023-02-15 18:58:14,582 :INFO : findItem :Element index is: 4
+2023-02-15 18:58:14,582 :INFO : findItem :Element index is: 4
+2023-02-15 18:59:49,418 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 18:59:53,556 :INFO : findItem :Element index is: 0
+2023-02-15 19:00:02,502 :INFO : test_groceryShopping :Searching for second item: MILK
+2023-02-15 19:00:07,518 :INFO : findItem :Element index is: 0
+2023-02-15 19:00:07,518 :INFO : findItem :Element index is: 0
+2023-02-15 19:00:07,527 :INFO : findItem :Element index is: 1
+2023-02-15 19:00:07,527 :INFO : findItem :Element index is: 1
+2023-02-15 19:00:07,532 :INFO : findItem :Element index is: 2
+2023-02-15 19:00:07,532 :INFO : findItem :Element index is: 2
+2023-02-15 19:00:07,539 :INFO : findItem :Element index is: 3
+2023-02-15 19:00:07,539 :INFO : findItem :Element index is: 3
+2023-02-15 19:00:07,543 :INFO : findItem :Element index is: 4
+2023-02-15 19:00:07,543 :INFO : findItem :Element index is: 4
+2023-02-15 19:00:07,547 :INFO : findItem :Element index is: 5
+2023-02-15 19:00:07,547 :INFO : findItem :Element index is: 5
+2023-02-15 19:00:16,451 :INFO : test_groceryShopping :Searching for second item: EGG
+2023-02-15 19:00:21,369 :INFO : findItem :Element index is: 0
+2023-02-15 19:00:21,369 :INFO : findItem :Element index is: 0
+2023-02-15 19:00:21,369 :INFO : findItem :Element index is: 0
+2023-02-15 19:00:21,382 :INFO : findItem :Element index is: 1
+2023-02-15 19:00:21,382 :INFO : findItem :Element index is: 1
+2023-02-15 19:00:21,382 :INFO : findItem :Element index is: 1
+2023-02-15 19:00:21,386 :INFO : findItem :Element index is: 2
+2023-02-15 19:00:21,386 :INFO : findItem :Element index is: 2
+2023-02-15 19:00:21,386 :INFO : findItem :Element index is: 2
+2023-02-15 19:00:21,390 :INFO : findItem :Element index is: 3
+2023-02-15 19:00:21,390 :INFO : findItem :Element index is: 3
+2023-02-15 19:00:21,390 :INFO : findItem :Element index is: 3
+2023-02-15 19:00:21,394 :INFO : findItem :Element index is: 4
+2023-02-15 19:00:21,394 :INFO : findItem :Element index is: 4
+2023-02-15 19:00:21,394 :INFO : findItem :Element index is: 4
+2023-02-15 19:01:39,011 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 19:01:43,295 :INFO : findItem :Element index is: 0
+2023-02-15 19:01:51,697 :INFO : test_groceryShopping :Searching for second item: MILK
+2023-02-15 19:01:56,495 :INFO : findItem :Element index is: 0
+2023-02-15 19:01:56,495 :INFO : findItem :Element index is: 0
+2023-02-15 19:01:56,538 :INFO : findItem :Element index is: 1
+2023-02-15 19:01:56,538 :INFO : findItem :Element index is: 1
+2023-02-15 19:01:56,549 :INFO : findItem :Element index is: 2
+2023-02-15 19:01:56,549 :INFO : findItem :Element index is: 2
+2023-02-15 19:01:56,558 :INFO : findItem :Element index is: 3
+2023-02-15 19:01:56,558 :INFO : findItem :Element index is: 3
+2023-02-15 19:01:56,563 :INFO : findItem :Element index is: 4
+2023-02-15 19:01:56,563 :INFO : findItem :Element index is: 4
+2023-02-15 19:01:56,570 :INFO : findItem :Element index is: 5
+2023-02-15 19:01:56,570 :INFO : findItem :Element index is: 5
+2023-02-15 19:01:56,585 :INFO : findItem :Element index is: 6
+2023-02-15 19:01:56,585 :INFO : findItem :Element index is: 6
+2023-02-15 19:01:56,594 :INFO : findItem :Element index is: 7
+2023-02-15 19:01:56,594 :INFO : findItem :Element index is: 7
+2023-02-15 19:01:56,599 :INFO : findItem :Element index is: 8
+2023-02-15 19:01:56,599 :INFO : findItem :Element index is: 8
+2023-02-15 19:02:44,529 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 19:02:48,776 :INFO : findItem :Element index is: 0
+2023-02-15 19:02:57,160 :INFO : test_groceryShopping :Searching for second item: MILK
+2023-02-15 19:03:01,860 :INFO : findItem :Element index is: 0
+2023-02-15 19:03:01,860 :INFO : findItem :Element index is: 0
+2023-02-15 19:03:01,866 :INFO : findItem :Element index is: 1
+2023-02-15 19:03:01,866 :INFO : findItem :Element index is: 1
+2023-02-15 19:03:01,873 :INFO : findItem :Element index is: 2
+2023-02-15 19:03:01,873 :INFO : findItem :Element index is: 2
+2023-02-15 19:03:01,886 :INFO : findItem :Element index is: 3
+2023-02-15 19:03:01,886 :INFO : findItem :Element index is: 3
+2023-02-15 19:03:01,929 :INFO : findItem :Element index is: 4
+2023-02-15 19:03:01,929 :INFO : findItem :Element index is: 4
+2023-02-15 19:03:01,935 :INFO : findItem :Element index is: 5
+2023-02-15 19:03:01,935 :INFO : findItem :Element index is: 5
+2023-02-15 19:03:10,266 :INFO : test_groceryShopping :Searching for second item: EGG
+2023-02-15 19:04:35,907 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 19:04:40,289 :INFO : findItem :Element index is: 0
+2023-02-15 19:04:48,751 :INFO : test_groceryShopping :Searching for second item: MILK
+2023-02-15 19:04:53,891 :INFO : findItem :Element index is: 0
+2023-02-15 19:04:53,891 :INFO : findItem :Element index is: 0
+2023-02-15 19:04:53,937 :INFO : findItem :Element index is: 1
+2023-02-15 19:04:53,937 :INFO : findItem :Element index is: 1
+2023-02-15 19:04:53,944 :INFO : findItem :Element index is: 2
+2023-02-15 19:04:53,944 :INFO : findItem :Element index is: 2
+2023-02-15 19:04:53,949 :INFO : findItem :Element index is: 3
+2023-02-15 19:04:53,949 :INFO : findItem :Element index is: 3
+2023-02-15 19:04:53,955 :INFO : findItem :Element index is: 4
+2023-02-15 19:04:53,955 :INFO : findItem :Element index is: 4
+2023-02-15 19:04:53,961 :INFO : findItem :Element index is: 5
+2023-02-15 19:04:53,961 :INFO : findItem :Element index is: 5
+2023-02-15 19:04:53,971 :INFO : findItem :Element index is: 6
+2023-02-15 19:04:53,971 :INFO : findItem :Element index is: 6
+2023-02-15 19:04:53,985 :INFO : findItem :Element index is: 7
+2023-02-15 19:04:53,985 :INFO : findItem :Element index is: 7
+2023-02-15 19:04:53,991 :INFO : findItem :Element index is: 8
+2023-02-15 19:04:53,991 :INFO : findItem :Element index is: 8
+2023-02-15 19:16:23,890 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 19:16:28,199 :INFO : findItem :Element index is: 0
+2023-02-15 19:16:54,217 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 19:16:58,461 :INFO : findItem :Element index is: 0
+2023-02-15 19:18:43,221 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 19:18:47,387 :INFO : findItem :Element index is: 0
+2023-02-15 19:18:54,331 :INFO : test_groceryShopping :Searching for second item: MILK
+2023-02-15 19:18:59,393 :INFO : findItem :Element index is: 0
+2023-02-15 19:18:59,393 :INFO : findItem :Element index is: 0
+2023-02-15 19:18:59,434 :INFO : findItem :Element index is: 1
+2023-02-15 19:18:59,434 :INFO : findItem :Element index is: 1
+2023-02-15 19:18:59,441 :INFO : findItem :Element index is: 2
+2023-02-15 19:18:59,441 :INFO : findItem :Element index is: 2
+2023-02-15 19:18:59,448 :INFO : findItem :Element index is: 3
+2023-02-15 19:18:59,448 :INFO : findItem :Element index is: 3
+2023-02-15 19:18:59,454 :INFO : findItem :Element index is: 4
+2023-02-15 19:18:59,454 :INFO : findItem :Element index is: 4
+2023-02-15 19:18:59,462 :INFO : findItem :Element index is: 5
+2023-02-15 19:18:59,462 :INFO : findItem :Element index is: 5
+2023-02-15 19:18:59,468 :INFO : findItem :Element index is: 6
+2023-02-15 19:18:59,468 :INFO : findItem :Element index is: 6
+2023-02-15 19:18:59,476 :INFO : findItem :Element index is: 7
+2023-02-15 19:18:59,476 :INFO : findItem :Element index is: 7
+2023-02-15 19:18:59,491 :INFO : findItem :Element index is: 8
+2023-02-15 19:18:59,491 :INFO : findItem :Element index is: 8
+2023-02-15 19:19:06,338 :INFO : test_groceryShopping :Searching for second item: EGG
+2023-02-15 19:24:03,223 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 19:24:07,464 :INFO : findItem :Element index is: 0
+2023-02-15 19:24:14,341 :INFO : test_groceryShopping :Searching for second item: MILK
+2023-02-15 19:24:19,212 :INFO : findItem :Element index is: 0
+2023-02-15 19:24:19,212 :INFO : findItem :Element index is: 0
+2023-02-15 19:24:19,221 :INFO : findItem :Element index is: 1
+2023-02-15 19:24:19,221 :INFO : findItem :Element index is: 1
+2023-02-15 19:24:19,235 :INFO : findItem :Element index is: 2
+2023-02-15 19:24:19,235 :INFO : findItem :Element index is: 2
+2023-02-15 19:24:19,273 :INFO : findItem :Element index is: 3
+2023-02-15 19:24:19,273 :INFO : findItem :Element index is: 3
+2023-02-15 19:24:19,279 :INFO : findItem :Element index is: 4
+2023-02-15 19:24:19,279 :INFO : findItem :Element index is: 4
+2023-02-15 19:24:19,286 :INFO : findItem :Element index is: 5
+2023-02-15 19:24:19,286 :INFO : findItem :Element index is: 5
+2023-02-15 19:24:26,122 :INFO : test_groceryShopping :Searching for second item: EGG
+2023-02-15 19:25:04,043 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 19:25:08,252 :INFO : findItem :Element index is: 0
+2023-02-15 19:25:27,384 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 19:25:31,451 :INFO : findItem :Element index is: 0
+2023-02-15 19:25:39,157 :INFO : test_groceryShopping :Searching for second item: MILK
+2023-02-15 19:25:44,036 :INFO : findItem :Element index is: 0
+2023-02-15 19:25:44,036 :INFO : findItem :Element index is: 0
+2023-02-15 19:25:44,044 :INFO : findItem :Element index is: 1
+2023-02-15 19:25:44,044 :INFO : findItem :Element index is: 1
+2023-02-15 19:25:44,048 :INFO : findItem :Element index is: 2
+2023-02-15 19:25:44,048 :INFO : findItem :Element index is: 2
+2023-02-15 19:25:44,054 :INFO : findItem :Element index is: 3
+2023-02-15 19:25:44,054 :INFO : findItem :Element index is: 3
+2023-02-15 19:25:44,057 :INFO : findItem :Element index is: 4
+2023-02-15 19:25:44,057 :INFO : findItem :Element index is: 4
+2023-02-15 19:25:44,062 :INFO : findItem :Element index is: 5
+2023-02-15 19:25:44,062 :INFO : findItem :Element index is: 5
+2023-02-15 19:26:20,727 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 19:26:24,807 :INFO : findItem :Element index is: 0
+2023-02-15 19:26:58,182 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 19:27:02,308 :INFO : findItem :Element index is: 0
+2023-02-15 19:27:58,439 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 19:28:02,655 :INFO : findItem :Element index is: 0
+2023-02-15 19:29:36,426 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 19:29:40,608 :INFO : findItem :Element index is: 0
+2023-02-15 19:30:25,023 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 19:30:29,184 :INFO : findItem :Element index is: 0
+2023-02-15 19:33:03,379 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 19:33:07,609 :INFO : findItem :Element index is: 0
+2023-02-15 19:33:15,075 :INFO : test_groceryShopping :Searching for second item: MILK
+2023-02-15 19:33:20,555 :INFO : findItem :Element index is: 0
+2023-02-15 19:33:20,555 :INFO : findItem :Element index is: 0
+2023-02-15 19:33:20,594 :INFO : findItem :Element index is: 1
+2023-02-15 19:33:20,594 :INFO : findItem :Element index is: 1
+2023-02-15 19:33:20,601 :INFO : findItem :Element index is: 2
+2023-02-15 19:33:20,601 :INFO : findItem :Element index is: 2
+2023-02-15 19:33:20,606 :INFO : findItem :Element index is: 3
+2023-02-15 19:33:20,606 :INFO : findItem :Element index is: 3
+2023-02-15 19:33:20,616 :INFO : findItem :Element index is: 4
+2023-02-15 19:33:20,616 :INFO : findItem :Element index is: 4
+2023-02-15 19:33:20,626 :INFO : findItem :Element index is: 5
+2023-02-15 19:33:20,626 :INFO : findItem :Element index is: 5
+2023-02-15 19:33:20,633 :INFO : findItem :Element index is: 6
+2023-02-15 19:33:20,633 :INFO : findItem :Element index is: 6
+2023-02-15 19:33:20,644 :INFO : findItem :Element index is: 7
+2023-02-15 19:33:20,644 :INFO : findItem :Element index is: 7
+2023-02-15 19:33:20,654 :INFO : findItem :Element index is: 8
+2023-02-15 19:33:20,654 :INFO : findItem :Element index is: 8
+2023-02-15 19:34:35,070 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 19:34:39,206 :INFO : findItem :Element index is: 0
+2023-02-15 19:34:46,642 :INFO : test_groceryShopping :Searching for second item: MILK
+2023-02-15 19:34:52,073 :INFO : findItem :Element index is: 0
+2023-02-15 19:34:52,073 :INFO : findItem :Element index is: 0
+2023-02-15 19:34:52,131 :INFO : findItem :Element index is: 1
+2023-02-15 19:34:52,131 :INFO : findItem :Element index is: 1
+2023-02-15 19:34:52,148 :INFO : findItem :Element index is: 2
+2023-02-15 19:34:52,148 :INFO : findItem :Element index is: 2
+2023-02-15 19:34:52,167 :INFO : findItem :Element index is: 3
+2023-02-15 19:34:52,167 :INFO : findItem :Element index is: 3
+2023-02-15 19:34:52,182 :INFO : findItem :Element index is: 4
+2023-02-15 19:34:52,182 :INFO : findItem :Element index is: 4
+2023-02-15 19:34:52,189 :INFO : findItem :Element index is: 5
+2023-02-15 19:34:52,189 :INFO : findItem :Element index is: 5
+2023-02-15 19:34:59,731 :INFO : test_groceryShopping :Searching for second item: EGG
+2023-02-15 19:35:05,632 :INFO : findItem :Element index is: 0
+2023-02-15 19:35:05,632 :INFO : findItem :Element index is: 0
+2023-02-15 19:35:05,632 :INFO : findItem :Element index is: 0
+2023-02-15 19:35:05,667 :INFO : findItem :Element index is: 1
+2023-02-15 19:35:05,667 :INFO : findItem :Element index is: 1
+2023-02-15 19:35:05,667 :INFO : findItem :Element index is: 1
+2023-02-15 19:35:05,674 :INFO : findItem :Element index is: 2
+2023-02-15 19:35:05,674 :INFO : findItem :Element index is: 2
+2023-02-15 19:35:05,674 :INFO : findItem :Element index is: 2
+2023-02-15 19:35:05,684 :INFO : findItem :Element index is: 3
+2023-02-15 19:35:05,684 :INFO : findItem :Element index is: 3
+2023-02-15 19:35:05,684 :INFO : findItem :Element index is: 3
+2023-02-15 19:35:05,691 :INFO : findItem :Element index is: 4
+2023-02-15 19:35:05,691 :INFO : findItem :Element index is: 4
+2023-02-15 19:35:05,691 :INFO : findItem :Element index is: 4
+2023-02-15 19:35:05,699 :INFO : findItem :Element index is: 5
+2023-02-15 19:35:05,699 :INFO : findItem :Element index is: 5
+2023-02-15 19:35:05,699 :INFO : findItem :Element index is: 5
+2023-02-15 19:35:05,705 :INFO : findItem :Element index is: 6
+2023-02-15 19:35:05,705 :INFO : findItem :Element index is: 6
+2023-02-15 19:35:05,705 :INFO : findItem :Element index is: 6
+2023-02-15 19:35:05,711 :INFO : findItem :Element index is: 7
+2023-02-15 19:35:05,711 :INFO : findItem :Element index is: 7
+2023-02-15 19:35:05,711 :INFO : findItem :Element index is: 7
+2023-02-15 19:35:05,717 :INFO : findItem :Element index is: 8
+2023-02-15 19:35:05,717 :INFO : findItem :Element index is: 8
+2023-02-15 19:35:05,717 :INFO : findItem :Element index is: 8
+2023-02-15 19:36:02,755 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 19:36:06,831 :INFO : findItem :Element index is: 0
+2023-02-15 19:38:54,835 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 19:38:59,088 :INFO : findItem :Element index is: 0
+2023-02-15 19:39:06,603 :INFO : test_groceryShopping :Searching for second item: MILK
+2023-02-15 19:39:12,207 :INFO : findItem :Element index is: 0
+2023-02-15 19:39:12,207 :INFO : findItem :Element index is: 0
+2023-02-15 19:39:12,246 :INFO : findItem :Element index is: 1
+2023-02-15 19:39:12,246 :INFO : findItem :Element index is: 1
+2023-02-15 19:39:12,252 :INFO : findItem :Element index is: 2
+2023-02-15 19:39:12,252 :INFO : findItem :Element index is: 2
+2023-02-15 19:39:12,261 :INFO : findItem :Element index is: 3
+2023-02-15 19:39:12,261 :INFO : findItem :Element index is: 3
+2023-02-15 19:39:12,269 :INFO : findItem :Element index is: 4
+2023-02-15 19:39:12,269 :INFO : findItem :Element index is: 4
+2023-02-15 19:39:12,275 :INFO : findItem :Element index is: 5
+2023-02-15 19:39:12,275 :INFO : findItem :Element index is: 5
+2023-02-15 19:39:12,281 :INFO : findItem :Element index is: 6
+2023-02-15 19:39:12,281 :INFO : findItem :Element index is: 6
+2023-02-15 19:39:12,291 :INFO : findItem :Element index is: 7
+2023-02-15 19:39:12,291 :INFO : findItem :Element index is: 7
+2023-02-15 19:39:12,308 :INFO : findItem :Element index is: 8
+2023-02-15 19:39:12,308 :INFO : findItem :Element index is: 8
+2023-02-15 19:40:34,074 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 19:40:38,173 :INFO : findItem :Element index is: 0
+2023-02-15 19:42:24,207 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 19:42:28,434 :INFO : findItem :Element index is: 0
+2023-02-15 19:42:35,903 :INFO : test_groceryShopping :Searching for second item: MILK
+2023-02-15 19:42:41,468 :INFO : findItem :Element index is: 0
+2023-02-15 19:42:41,468 :INFO : findItem :Element index is: 0
+2023-02-15 19:42:41,508 :INFO : findItem :Element index is: 1
+2023-02-15 19:42:41,508 :INFO : findItem :Element index is: 1
+2023-02-15 19:42:41,543 :INFO : findItem :Element index is: 2
+2023-02-15 19:42:41,543 :INFO : findItem :Element index is: 2
+2023-02-15 19:42:41,554 :INFO : findItem :Element index is: 3
+2023-02-15 19:42:41,554 :INFO : findItem :Element index is: 3
+2023-02-15 19:42:41,569 :INFO : findItem :Element index is: 4
+2023-02-15 19:42:41,569 :INFO : findItem :Element index is: 4
+2023-02-15 19:42:41,575 :INFO : findItem :Element index is: 5
+2023-02-15 19:42:41,575 :INFO : findItem :Element index is: 5
+2023-02-15 19:42:49,029 :INFO : test_groceryShopping :Searching for second item: EGG
+2023-02-15 19:42:54,665 :INFO : findItem :Element index is: 0
+2023-02-15 19:42:54,665 :INFO : findItem :Element index is: 0
+2023-02-15 19:42:54,665 :INFO : findItem :Element index is: 0
+2023-02-15 19:42:54,715 :INFO : findItem :Element index is: 1
+2023-02-15 19:42:54,715 :INFO : findItem :Element index is: 1
+2023-02-15 19:42:54,715 :INFO : findItem :Element index is: 1
+2023-02-15 19:42:54,722 :INFO : findItem :Element index is: 2
+2023-02-15 19:42:54,722 :INFO : findItem :Element index is: 2
+2023-02-15 19:42:54,722 :INFO : findItem :Element index is: 2
+2023-02-15 19:42:54,730 :INFO : findItem :Element index is: 3
+2023-02-15 19:42:54,730 :INFO : findItem :Element index is: 3
+2023-02-15 19:42:54,730 :INFO : findItem :Element index is: 3
+2023-02-15 19:42:54,740 :INFO : findItem :Element index is: 4
+2023-02-15 19:42:54,740 :INFO : findItem :Element index is: 4
+2023-02-15 19:42:54,740 :INFO : findItem :Element index is: 4
+2023-02-15 19:42:54,755 :INFO : findItem :Element index is: 5
+2023-02-15 19:42:54,755 :INFO : findItem :Element index is: 5
+2023-02-15 19:42:54,755 :INFO : findItem :Element index is: 5
+2023-02-15 19:44:11,665 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 19:44:15,952 :INFO : findItem :Element index is: 0
+2023-02-15 19:44:23,387 :INFO : test_groceryShopping :Searching for second item: MILK
+2023-02-15 19:44:28,820 :INFO : findItem :Element index is: 0
+2023-02-15 19:44:28,820 :INFO : findItem :Element index is: 0
+2023-02-15 19:44:28,837 :INFO : findItem :Element index is: 1
+2023-02-15 19:44:28,837 :INFO : findItem :Element index is: 1
+2023-02-15 19:44:28,849 :INFO : findItem :Element index is: 2
+2023-02-15 19:44:28,849 :INFO : findItem :Element index is: 2
+2023-02-15 19:44:28,892 :INFO : findItem :Element index is: 3
+2023-02-15 19:44:28,892 :INFO : findItem :Element index is: 3
+2023-02-15 19:44:28,901 :INFO : findItem :Element index is: 4
+2023-02-15 19:44:28,901 :INFO : findItem :Element index is: 4
+2023-02-15 19:44:28,907 :INFO : findItem :Element index is: 5
+2023-02-15 19:44:28,907 :INFO : findItem :Element index is: 5
+2023-02-15 19:44:28,913 :INFO : findItem :Element index is: 6
+2023-02-15 19:44:28,913 :INFO : findItem :Element index is: 6
+2023-02-15 19:44:28,922 :INFO : findItem :Element index is: 7
+2023-02-15 19:44:28,922 :INFO : findItem :Element index is: 7
+2023-02-15 19:44:28,933 :INFO : findItem :Element index is: 8
+2023-02-15 19:44:28,933 :INFO : findItem :Element index is: 8
+2023-02-15 19:44:57,530 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 19:45:01,703 :INFO : findItem :Element index is: 0
+2023-02-15 19:45:09,102 :INFO : test_groceryShopping :Searching for second item: MILK
+2023-02-15 19:45:14,549 :INFO : findItem :Element index is: 0
+2023-02-15 19:45:14,549 :INFO : findItem :Element index is: 0
+2023-02-15 19:45:14,602 :INFO : findItem :Element index is: 1
+2023-02-15 19:45:14,602 :INFO : findItem :Element index is: 1
+2023-02-15 19:45:14,620 :INFO : findItem :Element index is: 2
+2023-02-15 19:45:14,620 :INFO : findItem :Element index is: 2
+2023-02-15 19:45:14,634 :INFO : findItem :Element index is: 3
+2023-02-15 19:45:14,634 :INFO : findItem :Element index is: 3
+2023-02-15 19:45:14,651 :INFO : findItem :Element index is: 4
+2023-02-15 19:45:14,651 :INFO : findItem :Element index is: 4
+2023-02-15 19:45:14,658 :INFO : findItem :Element index is: 5
+2023-02-15 19:45:14,658 :INFO : findItem :Element index is: 5
+2023-02-15 19:45:22,250 :INFO : test_groceryShopping :Searching for second item: EGG
+2023-02-15 19:45:27,859 :INFO : findItem :Element index is: 0
+2023-02-15 19:45:27,859 :INFO : findItem :Element index is: 0
+2023-02-15 19:45:27,859 :INFO : findItem :Element index is: 0
+2023-02-15 19:45:27,891 :INFO : findItem :Element index is: 1
+2023-02-15 19:45:27,891 :INFO : findItem :Element index is: 1
+2023-02-15 19:45:27,891 :INFO : findItem :Element index is: 1
+2023-02-15 19:45:27,898 :INFO : findItem :Element index is: 2
+2023-02-15 19:45:27,898 :INFO : findItem :Element index is: 2
+2023-02-15 19:45:27,898 :INFO : findItem :Element index is: 2
+2023-02-15 19:45:27,904 :INFO : findItem :Element index is: 3
+2023-02-15 19:45:27,904 :INFO : findItem :Element index is: 3
+2023-02-15 19:45:27,904 :INFO : findItem :Element index is: 3
+2023-02-15 19:45:27,915 :INFO : findItem :Element index is: 4
+2023-02-15 19:45:27,915 :INFO : findItem :Element index is: 4
+2023-02-15 19:45:27,915 :INFO : findItem :Element index is: 4
+2023-02-15 19:45:27,922 :INFO : findItem :Element index is: 5
+2023-02-15 19:45:27,922 :INFO : findItem :Element index is: 5
+2023-02-15 19:45:27,922 :INFO : findItem :Element index is: 5
+2023-02-15 19:46:43,708 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 19:46:47,785 :INFO : findItem :Element index is: 0
+2023-02-15 19:47:18,911 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 19:47:23,069 :INFO : findItem :Element index is: 0
+2023-02-15 19:49:44,820 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 19:49:49,092 :INFO : findItem :Element index is: 0
+2023-02-15 19:49:56,502 :INFO : test_groceryShopping :Searching for second item: MILK
+2023-02-15 19:50:01,963 :INFO : findItem :Element index is: 0
+2023-02-15 19:50:01,963 :INFO : findItem :Element index is: 0
+2023-02-15 19:50:02,002 :INFO : findItem :Element index is: 1
+2023-02-15 19:50:02,002 :INFO : findItem :Element index is: 1
+2023-02-15 19:50:02,010 :INFO : findItem :Element index is: 2
+2023-02-15 19:50:02,010 :INFO : findItem :Element index is: 2
+2023-02-15 19:50:02,016 :INFO : findItem :Element index is: 3
+2023-02-15 19:50:02,016 :INFO : findItem :Element index is: 3
+2023-02-15 19:50:02,022 :INFO : findItem :Element index is: 4
+2023-02-15 19:50:02,022 :INFO : findItem :Element index is: 4
+2023-02-15 19:50:02,027 :INFO : findItem :Element index is: 5
+2023-02-15 19:50:02,027 :INFO : findItem :Element index is: 5
+2023-02-15 19:50:02,033 :INFO : findItem :Element index is: 6
+2023-02-15 19:50:02,033 :INFO : findItem :Element index is: 6
+2023-02-15 19:50:02,040 :INFO : findItem :Element index is: 7
+2023-02-15 19:50:02,040 :INFO : findItem :Element index is: 7
+2023-02-15 19:50:02,046 :INFO : findItem :Element index is: 8
+2023-02-15 19:50:02,046 :INFO : findItem :Element index is: 8
+2023-02-15 19:55:07,264 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 19:55:11,488 :INFO : findItem :Element index is: 0
+2023-02-15 19:55:18,852 :INFO : test_groceryShopping :Searching for second item: MILK
+2023-02-15 19:55:24,276 :INFO : findItem :Element index is: 0
+2023-02-15 19:55:24,276 :INFO : findItem :Element index is: 0
+2023-02-15 19:55:24,314 :INFO : findItem :Element index is: 1
+2023-02-15 19:55:24,314 :INFO : findItem :Element index is: 1
+2023-02-15 19:55:24,320 :INFO : findItem :Element index is: 2
+2023-02-15 19:55:24,320 :INFO : findItem :Element index is: 2
+2023-02-15 19:55:24,329 :INFO : findItem :Element index is: 3
+2023-02-15 19:55:24,329 :INFO : findItem :Element index is: 3
+2023-02-15 19:55:24,335 :INFO : findItem :Element index is: 4
+2023-02-15 19:55:24,335 :INFO : findItem :Element index is: 4
+2023-02-15 19:55:24,341 :INFO : findItem :Element index is: 5
+2023-02-15 19:55:24,341 :INFO : findItem :Element index is: 5
+2023-02-15 19:55:24,347 :INFO : findItem :Element index is: 6
+2023-02-15 19:55:24,347 :INFO : findItem :Element index is: 6
+2023-02-15 19:55:24,363 :INFO : findItem :Element index is: 7
+2023-02-15 19:55:24,363 :INFO : findItem :Element index is: 7
+2023-02-15 19:55:24,371 :INFO : findItem :Element index is: 8
+2023-02-15 19:55:24,371 :INFO : findItem :Element index is: 8
+2023-02-15 19:57:22,005 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 19:57:26,271 :INFO : findItem :Element index is: 0
+2023-02-15 19:57:33,704 :INFO : test_groceryShopping :Searching for second item: MILK
+2023-02-15 19:57:39,362 :INFO : findItem :Element index is: 0
+2023-02-15 19:57:39,362 :INFO : findItem :Element index is: 0
+2023-02-15 19:57:46,653 :INFO : test_groceryShopping :Searching for second item: EGG
+2023-02-15 19:57:52,497 :INFO : findItem :Element index is: 0
+2023-02-15 19:57:52,497 :INFO : findItem :Element index is: 0
+2023-02-15 19:57:52,497 :INFO : findItem :Element index is: 0
+2023-02-15 19:57:52,504 :INFO : findItem :Element index is: 1
+2023-02-15 19:57:52,504 :INFO : findItem :Element index is: 1
+2023-02-15 19:57:52,504 :INFO : findItem :Element index is: 1
+2023-02-15 19:57:52,510 :INFO : findItem :Element index is: 2
+2023-02-15 19:57:52,510 :INFO : findItem :Element index is: 2
+2023-02-15 19:57:52,510 :INFO : findItem :Element index is: 2
+2023-02-15 19:58:43,862 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 19:58:48,075 :INFO : findItem :Element index is: 0
+2023-02-15 19:58:55,459 :INFO : test_groceryShopping :Searching for second item: MILK
+2023-02-15 19:59:00,933 :INFO : findItem :Element index is: 0
+2023-02-15 19:59:00,933 :INFO : findItem :Element index is: 0
+2023-02-15 19:59:08,251 :INFO : test_groceryShopping :Searching for second item: EGG
+2023-02-15 19:59:14,024 :INFO : findItem :Element index is: 0
+2023-02-15 19:59:14,024 :INFO : findItem :Element index is: 0
+2023-02-15 19:59:14,024 :INFO : findItem :Element index is: 0
+2023-02-15 20:03:36,153 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 20:03:40,263 :INFO : findItem :Element index is: 0
+2023-02-15 20:04:13,663 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 20:04:17,684 :INFO : findItem :Element index is: 0
+2023-02-15 20:05:55,019 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 20:05:59,144 :INFO : findItem :Element index is: 0
+2023-02-15 20:06:38,593 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 20:06:42,675 :INFO : findItem :Element index is: 0
+2023-02-15 20:07:08,858 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 20:07:13,000 :INFO : findItem :Element index is: 0
+2023-02-15 20:07:20,403 :INFO : test_groceryShopping :Searching for second item: MILK
+2023-02-15 20:07:25,885 :INFO : findItem :Element index is: 0
+2023-02-15 20:07:25,885 :INFO : findItem :Element index is: 0
+2023-02-15 20:07:33,210 :INFO : test_groceryShopping :Searching for second item: EGG
+2023-02-15 20:07:38,773 :INFO : findItem :Element index is: 0
+2023-02-15 20:07:38,773 :INFO : findItem :Element index is: 0
+2023-02-15 20:07:38,773 :INFO : findItem :Element index is: 0
+2023-02-15 20:07:54,671 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 20:07:58,772 :INFO : findItem :Element index is: 0
+2023-02-15 20:08:06,174 :INFO : test_groceryShopping :Searching for second item: MILK
+2023-02-15 20:08:11,542 :INFO : findItem :Element index is: 0
+2023-02-15 20:08:11,542 :INFO : findItem :Element index is: 0
+2023-02-15 20:08:18,832 :INFO : test_groceryShopping :Searching for second item: EGG
+2023-02-15 20:08:24,431 :INFO : findItem :Element index is: 0
+2023-02-15 20:08:24,431 :INFO : findItem :Element index is: 0
+2023-02-15 20:08:24,431 :INFO : findItem :Element index is: 0
+2023-02-15 20:08:57,246 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 20:09:01,382 :INFO : findItem :Element index is: 0
+2023-02-15 20:09:08,911 :INFO : test_groceryShopping :Searching for second item: MILK
+2023-02-15 20:09:14,376 :INFO : findItem :Element index is: 0
+2023-02-15 20:09:14,376 :INFO : findItem :Element index is: 0
+2023-02-15 20:09:21,934 :INFO : test_groceryShopping :Searching for second item: EGG
+2023-02-15 20:09:27,484 :INFO : findItem :Element index is: 0
+2023-02-15 20:09:27,484 :INFO : findItem :Element index is: 0
+2023-02-15 20:09:27,484 :INFO : findItem :Element index is: 0
+2023-02-15 20:09:45,824 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 20:09:50,065 :INFO : findItem :Element index is: 0
+2023-02-15 20:09:57,078 :INFO : test_groceryShopping :Searching for second item: MILK
+2023-02-15 20:10:02,984 :INFO : findItem :Element index is: 0
+2023-02-15 20:10:02,984 :INFO : findItem :Element index is: 0
+2023-02-15 20:10:09,943 :INFO : test_groceryShopping :Searching for second item: EGG
+2023-02-15 20:13:30,341 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 20:13:34,484 :INFO : findItem :Element index is: 0
+2023-02-15 20:13:41,544 :INFO : test_groceryShopping :Searching for second item: MILK
+2023-02-15 20:13:46,745 :INFO : findItem :Element index is: 0
+2023-02-15 20:13:46,745 :INFO : findItem :Element index is: 0
+2023-02-15 20:13:53,662 :INFO : test_groceryShopping :Searching for second item: EGG
+2023-02-15 20:16:13,223 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 20:16:17,354 :INFO : findItem :Element index is: 0
+2023-02-15 20:16:24,670 :INFO : test_groceryShopping :Searching for second item: MILK
+2023-02-15 20:16:30,675 :INFO : findItem :Element index is: 0
+2023-02-15 20:16:30,675 :INFO : findItem :Element index is: 0
+2023-02-15 20:16:37,961 :INFO : test_groceryShopping :Searching for second item: EGG
+2023-02-15 20:16:43,521 :INFO : findItem :Element index is: 0
+2023-02-15 20:16:43,521 :INFO : findItem :Element index is: 0
+2023-02-15 20:16:43,521 :INFO : findItem :Element index is: 0
+2023-02-15 20:36:19,493 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 20:36:23,698 :INFO : findItem :Element index is: 0
+2023-02-15 20:36:31,072 :INFO : test_groceryShopping :Searching for second item: MILK
+2023-02-15 20:36:36,462 :INFO : findItem :Element index is: 0
+2023-02-15 20:36:36,462 :INFO : findItem :Element index is: 0
+2023-02-15 20:36:43,733 :INFO : test_groceryShopping :Searching for second item: EGG
+2023-02-15 20:36:49,326 :INFO : findItem :Element index is: 0
+2023-02-15 20:36:49,326 :INFO : findItem :Element index is: 0
+2023-02-15 20:36:49,326 :INFO : findItem :Element index is: 0
+2023-02-15 20:37:20,957 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 20:37:25,144 :INFO : findItem :Element index is: 0
+2023-02-15 20:37:32,511 :INFO : test_groceryShopping :Searching for second item: MILK
+2023-02-15 20:37:37,724 :INFO : findItem :Element index is: 0
+2023-02-15 20:37:37,724 :INFO : findItem :Element index is: 0
+2023-02-15 20:37:44,966 :INFO : test_groceryShopping :Searching for second item: EGG
+2023-02-15 20:37:50,551 :INFO : findItem :Element index is: 0
+2023-02-15 20:37:50,551 :INFO : findItem :Element index is: 0
+2023-02-15 20:37:50,551 :INFO : findItem :Element index is: 0
+2023-02-15 20:38:42,886 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 20:38:47,221 :INFO : findItem :Element index is: 0
+2023-02-15 20:38:54,512 :INFO : test_groceryShopping :Searching for second item: MILK
+2023-02-15 20:38:59,755 :INFO : findItem :Element index is: 0
+2023-02-15 20:38:59,755 :INFO : findItem :Element index is: 0
+2023-02-15 20:39:07,085 :INFO : test_groceryShopping :Searching for second item: EGG
+2023-02-15 20:39:12,544 :INFO : findItem :Element index is: 0
+2023-02-15 20:39:12,544 :INFO : findItem :Element index is: 0
+2023-02-15 20:39:12,544 :INFO : findItem :Element index is: 0
+2023-02-15 20:42:57,532 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 20:43:01,825 :INFO : findItem :Element index is: 0
+2023-02-15 20:43:09,137 :INFO : test_groceryShopping :Searching for second item: MILK
+2023-02-15 20:43:14,264 :INFO : findItem :Element index is: 0
+2023-02-15 20:43:14,264 :INFO : findItem :Element index is: 0
+2023-02-15 20:43:21,545 :INFO : test_groceryShopping :Searching for second item: EGG
+2023-02-15 20:43:27,064 :INFO : findItem :Element index is: 0
+2023-02-15 20:43:27,064 :INFO : findItem :Element index is: 0
+2023-02-15 20:43:27,064 :INFO : findItem :Element index is: 0
+2023-02-15 22:00:53,486 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 22:00:57,695 :INFO : findItem :Element index is: 0
+2023-02-15 22:01:05,054 :INFO : test_groceryShopping :Searching for second item: MILK
+2023-02-15 22:01:10,288 :INFO : findItem :Element index is: 0
+2023-02-15 22:01:10,288 :INFO : findItem :Element index is: 0
+2023-02-15 22:01:17,603 :INFO : test_groceryShopping :Searching for second item: EGG
+2023-02-15 22:01:23,146 :INFO : findItem :Element index is: 0
+2023-02-15 22:01:23,146 :INFO : findItem :Element index is: 0
+2023-02-15 22:01:23,146 :INFO : findItem :Element index is: 0
+2023-02-15 22:02:17,518 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 22:02:21,662 :INFO : findItem :Element index is: 0
+2023-02-15 22:03:11,153 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 22:03:15,340 :INFO : findItem :Element index is: 0
+2023-02-15 22:03:22,646 :INFO : test_groceryShopping :Searching for second item: MILK
+2023-02-15 22:03:27,877 :INFO : findItem :Element index is: 0
+2023-02-15 22:03:27,877 :INFO : findItem :Element index is: 0
+2023-02-15 22:03:35,183 :INFO : test_groceryShopping :Searching for second item: EGG
+2023-02-15 22:03:40,732 :INFO : findItem :Element index is: 0
+2023-02-15 22:03:40,732 :INFO : findItem :Element index is: 0
+2023-02-15 22:03:40,732 :INFO : findItem :Element index is: 0
+2023-02-15 22:04:21,469 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 22:04:25,620 :INFO : findItem :Element index is: 0
+2023-02-15 22:04:33,032 :INFO : test_groceryShopping :Searching for second item: MILK
+2023-02-15 22:04:38,150 :INFO : findItem :Element index is: 0
+2023-02-15 22:04:38,150 :INFO : findItem :Element index is: 0
+2023-02-15 22:04:45,420 :INFO : test_groceryShopping :Searching for second item: EGG
+2023-02-15 22:04:51,087 :INFO : findItem :Element index is: 0
+2023-02-15 22:04:51,087 :INFO : findItem :Element index is: 0
+2023-02-15 22:04:51,087 :INFO : findItem :Element index is: 0
+2023-02-15 22:05:13,258 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 22:05:17,419 :INFO : findItem :Element index is: 0
+2023-02-15 22:05:24,783 :INFO : test_groceryShopping :Searching for second item: MILK
+2023-02-15 22:05:29,865 :INFO : findItem :Element index is: 0
+2023-02-15 22:05:29,865 :INFO : findItem :Element index is: 0
+2023-02-15 22:05:37,187 :INFO : test_groceryShopping :Searching for second item: EGG
+2023-02-15 22:05:42,684 :INFO : findItem :Element index is: 0
+2023-02-15 22:05:42,684 :INFO : findItem :Element index is: 0
+2023-02-15 22:05:42,684 :INFO : findItem :Element index is: 0
+2023-02-15 22:06:06,485 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 22:06:10,692 :INFO : findItem :Element index is: 0
+2023-02-15 22:06:18,056 :INFO : test_groceryShopping :Searching for second item: MILK
+2023-02-15 22:06:23,162 :INFO : findItem :Element index is: 0
+2023-02-15 22:06:23,162 :INFO : findItem :Element index is: 0
+2023-02-15 22:06:30,468 :INFO : test_groceryShopping :Searching for second item: EGG
+2023-02-15 22:06:35,983 :INFO : findItem :Element index is: 0
+2023-02-15 22:06:35,983 :INFO : findItem :Element index is: 0
+2023-02-15 22:06:35,983 :INFO : findItem :Element index is: 0
+2023-02-15 22:26:42,085 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 22:26:46,330 :INFO : findItem :Element index is: 0
+2023-02-15 22:26:53,316 :INFO : test_groceryShopping :BREAD was found and added to cart
+2023-02-15 22:26:53,714 :INFO : test_groceryShopping :Searching for second item: MILK
+2023-02-15 22:26:58,893 :INFO : findItem :Element index is: 0
+2023-02-15 22:26:58,893 :INFO : findItem :Element index is: 0
+2023-02-15 22:27:05,815 :INFO : test_groceryShopping :MILK was found and added to cart
+2023-02-15 22:27:06,170 :INFO : test_groceryShopping :Searching for third item: EGG
+2023-02-15 22:27:11,732 :INFO : findItem :Element index is: 0
+2023-02-15 22:27:11,732 :INFO : findItem :Element index is: 0
+2023-02-15 22:27:11,732 :INFO : findItem :Element index is: 0
+2023-02-15 22:27:18,647 :INFO : test_groceryShopping :MILK was found and added to cart
+2023-02-15 22:38:06,701 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 22:38:10,891 :INFO : findItem :Element index is: 0
+2023-02-15 22:38:17,894 :INFO : test_groceryShopping :BREAD was found and added to cart
+2023-02-15 22:38:18,253 :INFO : test_groceryShopping :Searching for second item: MILK
+2023-02-15 22:38:23,401 :INFO : findItem :Element index is: 0
+2023-02-15 22:38:23,401 :INFO : findItem :Element index is: 0
+2023-02-15 22:38:30,290 :INFO : test_groceryShopping :MILK was found and added to cart
+2023-02-15 22:38:30,682 :INFO : test_groceryShopping :Searching for third item: EGG
+2023-02-15 22:38:36,201 :INFO : findItem :Element index is: 0
+2023-02-15 22:38:36,201 :INFO : findItem :Element index is: 0
+2023-02-15 22:38:36,201 :INFO : findItem :Element index is: 0
+2023-02-15 22:38:43,115 :INFO : test_groceryShopping :MILK was found and added to cart
+2023-02-15 22:38:44,827 :INFO : test_groceryShopping :Sending email now
+2023-02-15 22:41:38,309 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 22:41:42,488 :INFO : findItem :Element index is: 0
+2023-02-15 22:41:49,487 :INFO : test_groceryShopping :BREAD was found and added to cart
+2023-02-15 22:41:49,844 :INFO : test_groceryShopping :Searching for second item: MILK
+2023-02-15 22:41:55,079 :INFO : findItem :Element index is: 0
+2023-02-15 22:41:55,079 :INFO : findItem :Element index is: 0
+2023-02-15 22:42:01,961 :INFO : test_groceryShopping :MILK was found and added to cart
+2023-02-15 22:42:02,342 :INFO : test_groceryShopping :Searching for third item: EGG
+2023-02-15 22:42:07,872 :INFO : findItem :Element index is: 0
+2023-02-15 22:42:07,872 :INFO : findItem :Element index is: 0
+2023-02-15 22:42:07,872 :INFO : findItem :Element index is: 0
+2023-02-15 22:42:14,795 :INFO : test_groceryShopping :MILK was found and added to cart
+2023-02-15 22:42:16,291 :INFO : test_groceryShopping :Sending email now
+2023-02-15 22:46:55,336 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 22:46:59,560 :INFO : findItem :Element index is: 0
+2023-02-15 22:47:06,621 :INFO : test_groceryShopping :BREAD was found and added to cart
+2023-02-15 22:47:06,969 :INFO : test_groceryShopping :Searching for second item: MILK
+2023-02-15 22:47:12,157 :INFO : findItem :Element index is: 0
+2023-02-15 22:47:12,157 :INFO : findItem :Element index is: 0
+2023-02-15 22:47:19,086 :INFO : test_groceryShopping :MILK was found and added to cart
+2023-02-15 22:47:19,482 :INFO : test_groceryShopping :Searching for third item: EGG
+2023-02-15 22:47:24,995 :INFO : findItem :Element index is: 0
+2023-02-15 22:47:24,995 :INFO : findItem :Element index is: 0
+2023-02-15 22:47:24,995 :INFO : findItem :Element index is: 0
+2023-02-15 22:47:31,923 :INFO : test_groceryShopping :MILK was found and added to cart
+2023-02-15 22:47:33,437 :INFO : test_groceryShopping :Sending email now
+2023-02-15 22:48:07,587 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 22:48:11,787 :INFO : findItem :Element index is: 0
+2023-02-15 22:48:18,763 :INFO : test_groceryShopping :BREAD was found and added to cart
+2023-02-15 22:48:19,123 :INFO : test_groceryShopping :Searching for second item: MILK
+2023-02-15 22:48:24,240 :INFO : findItem :Element index is: 0
+2023-02-15 22:48:24,240 :INFO : findItem :Element index is: 0
+2023-02-15 22:48:31,165 :INFO : test_groceryShopping :MILK was found and added to cart
+2023-02-15 22:48:31,561 :INFO : test_groceryShopping :Searching for third item: EGG
+2023-02-15 22:48:37,038 :INFO : findItem :Element index is: 0
+2023-02-15 22:48:37,038 :INFO : findItem :Element index is: 0
+2023-02-15 22:48:37,038 :INFO : findItem :Element index is: 0
+2023-02-15 22:48:43,958 :INFO : test_groceryShopping :MILK was found and added to cart
+2023-02-15 22:48:45,448 :INFO : test_groceryShopping :Sending email now
+2023-02-15 22:52:08,393 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 22:52:12,634 :INFO : findItem :Element index is: 0
+2023-02-15 22:52:19,635 :INFO : test_groceryShopping :BREAD was found and added to cart
+2023-02-15 22:52:20,024 :INFO : test_groceryShopping :Searching for second item: MILK
+2023-02-15 22:52:25,087 :INFO : findItem :Element index is: 0
+2023-02-15 22:52:25,087 :INFO : findItem :Element index is: 0
+2023-02-15 22:52:32,019 :INFO : test_groceryShopping :MILK was found and added to cart
+2023-02-15 22:52:32,418 :INFO : test_groceryShopping :Searching for third item: EGG
+2023-02-15 22:52:37,927 :INFO : findItem :Element index is: 0
+2023-02-15 22:52:37,927 :INFO : findItem :Element index is: 0
+2023-02-15 22:52:37,927 :INFO : findItem :Element index is: 0
+2023-02-15 22:52:44,833 :INFO : test_groceryShopping :MILK was found and added to cart
+2023-02-15 22:52:46,264 :INFO : test_groceryShopping :Sending email now
+2023-02-15 22:53:43,194 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 22:53:47,417 :INFO : findItem :Element index is: 0
+2023-02-15 22:53:54,410 :INFO : test_groceryShopping :BREAD was found and added to cart
+2023-02-15 22:53:54,768 :INFO : test_groceryShopping :Searching for second item: MILK
+2023-02-15 22:54:00,012 :INFO : findItem :Element index is: 0
+2023-02-15 22:54:00,012 :INFO : findItem :Element index is: 0
+2023-02-15 22:54:06,931 :INFO : test_groceryShopping :MILK was found and added to cart
+2023-02-15 22:54:07,312 :INFO : test_groceryShopping :Searching for third item: EGG
+2023-02-15 22:54:12,827 :INFO : findItem :Element index is: 0
+2023-02-15 22:54:12,827 :INFO : findItem :Element index is: 0
+2023-02-15 22:54:12,827 :INFO : findItem :Element index is: 0
+2023-02-15 22:54:19,760 :INFO : test_groceryShopping :MILK was found and added to cart
+2023-02-15 22:54:21,302 :INFO : test_groceryShopping :Sending email now
+2023-02-15 22:55:45,392 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 22:55:49,606 :INFO : findItem :Element index is: 0
+2023-02-15 22:55:56,596 :INFO : test_groceryShopping :BREAD was found and added to cart
+2023-02-15 22:55:56,952 :INFO : test_groceryShopping :Searching for second item: MILK
+2023-02-15 22:56:02,630 :INFO : findItem :Element index is: 0
+2023-02-15 22:56:02,630 :INFO : findItem :Element index is: 0
+2023-02-15 22:56:09,540 :INFO : test_groceryShopping :MILK was found and added to cart
+2023-02-15 22:56:09,894 :INFO : test_groceryShopping :Searching for third item: EGG
+2023-02-15 22:56:15,442 :INFO : findItem :Element index is: 0
+2023-02-15 22:56:15,442 :INFO : findItem :Element index is: 0
+2023-02-15 22:56:15,442 :INFO : findItem :Element index is: 0
+2023-02-15 22:56:22,347 :INFO : test_groceryShopping :MILK was found and added to cart
+2023-02-15 22:56:24,042 :INFO : test_groceryShopping :Sending email now
+2023-02-15 22:58:33,665 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 22:58:37,800 :INFO : findItem :Element index is: 0
+2023-02-15 22:58:44,802 :INFO : test_groceryShopping :BREAD was found and added to cart
+2023-02-15 22:58:45,179 :INFO : test_groceryShopping :Searching for second item: MILK
+2023-02-15 22:58:50,299 :INFO : findItem :Element index is: 0
+2023-02-15 22:58:50,299 :INFO : findItem :Element index is: 0
+2023-02-15 22:58:57,227 :INFO : test_groceryShopping :MILK was found and added to cart
+2023-02-15 22:58:57,621 :INFO : test_groceryShopping :Searching for third item: EGG
+2023-02-15 22:59:03,161 :INFO : findItem :Element index is: 0
+2023-02-15 22:59:03,161 :INFO : findItem :Element index is: 0
+2023-02-15 22:59:03,161 :INFO : findItem :Element index is: 0
+2023-02-15 22:59:10,083 :INFO : test_groceryShopping :MILK was found and added to cart
+2023-02-15 22:59:11,866 :INFO : test_groceryShopping :Sending email now
+2023-02-15 22:59:39,392 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 22:59:43,468 :INFO : findItem :Element index is: 0
+2023-02-15 22:59:50,934 :INFO : test_groceryShopping :BREAD was found and added to cart
+2023-02-15 23:00:09,596 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 23:00:13,673 :INFO : findItem :Element index is: 0
+2023-02-15 23:04:34,324 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 23:04:38,452 :INFO : findItem :Element index is: 0
+2023-02-15 23:06:32,008 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 23:06:36,104 :INFO : findItem :Element index is: 0
+2023-02-15 23:06:57,723 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 23:07:01,964 :INFO : findItem :Element index is: 0
+2023-02-15 23:07:43,611 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 23:07:47,818 :INFO : findItem :Element index is: 0
+2023-02-15 23:08:14,316 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 23:08:18,446 :INFO : findItem :Element index is: 0
+2023-02-15 23:08:25,456 :INFO : test_groceryShopping :BREAD was found and added to cart
+2023-02-15 23:08:25,835 :INFO : test_groceryShopping :Searching for second item: MILK
+2023-02-15 23:08:31,127 :INFO : findItem :Element index is: 0
+2023-02-15 23:08:31,127 :INFO : findItem :Element index is: 0
+2023-02-15 23:08:38,078 :INFO : test_groceryShopping :MILK was found and added to cart
+2023-02-15 23:08:38,476 :INFO : test_groceryShopping :Searching for third item: EGG
+2023-02-15 23:08:44,007 :INFO : findItem :Element index is: 0
+2023-02-15 23:08:44,007 :INFO : findItem :Element index is: 0
+2023-02-15 23:08:44,007 :INFO : findItem :Element index is: 0
+2023-02-15 23:08:50,952 :INFO : test_groceryShopping :MILK was found and added to cart
+2023-02-15 23:08:52,454 :INFO : test_groceryShopping :Sending email now
+2023-02-15 23:09:17,938 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 23:09:22,024 :INFO : findItem :Element index is: 0
+2023-02-15 23:09:29,531 :INFO : test_groceryShopping :BREAD was found and added to cart
+2023-02-15 23:11:57,200 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 23:12:44,190 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 23:12:48,293 :INFO : findItem :Element index is: 0
+2023-02-15 23:12:55,814 :INFO : test_groceryShopping :BREAD was found and added to cart
+2023-02-15 23:12:58,105 :INFO : test_groceryShopping :Searching for second item: MILK
+2023-02-15 23:13:03,301 :INFO : findItem :Element index is: 0
+2023-02-15 23:13:03,301 :INFO : findItem :Element index is: 0
+2023-02-15 23:13:10,847 :INFO : test_groceryShopping :MILK was found and added to cart
+2023-02-15 23:13:14,173 :INFO : test_groceryShopping :Searching for third item: EGG
+2023-02-15 23:13:19,807 :INFO : findItem :Element index is: 0
+2023-02-15 23:13:19,807 :INFO : findItem :Element index is: 0
+2023-02-15 23:13:19,807 :INFO : findItem :Element index is: 0
+2023-02-15 23:13:27,317 :INFO : test_groceryShopping :MILK was found and added to cart
+2023-02-15 23:13:47,395 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 23:13:51,503 :INFO : findItem :Element index is: 0
+2023-02-15 23:13:59,009 :INFO : test_groceryShopping :BREAD was found and added to cart
+2023-02-15 23:14:01,309 :INFO : test_groceryShopping :Searching for second item: MILK
+2023-02-15 23:14:06,515 :INFO : findItem :Element index is: 0
+2023-02-15 23:14:06,515 :INFO : findItem :Element index is: 0
+2023-02-15 23:14:14,074 :INFO : test_groceryShopping :MILK was found and added to cart
+2023-02-15 23:14:17,400 :INFO : test_groceryShopping :Searching for third item: EGG
+2023-02-15 23:14:23,012 :INFO : findItem :Element index is: 0
+2023-02-15 23:14:23,012 :INFO : findItem :Element index is: 0
+2023-02-15 23:14:23,012 :INFO : findItem :Element index is: 0
+2023-02-15 23:14:30,489 :INFO : test_groceryShopping :MILK was found and added to cart
+2023-02-15 23:15:00,828 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 23:15:04,935 :INFO : findItem :Element index is: 0
+2023-02-15 23:15:12,415 :INFO : test_groceryShopping :BREAD was found and added to cart
+2023-02-15 23:15:14,687 :INFO : test_groceryShopping :Searching for second item: MILK
+2023-02-15 23:15:19,979 :INFO : findItem :Element index is: 0
+2023-02-15 23:15:19,979 :INFO : findItem :Element index is: 0
+2023-02-15 23:15:27,518 :INFO : test_groceryShopping :MILK was found and added to cart
+2023-02-15 23:15:30,845 :INFO : test_groceryShopping :Searching for third item: EGG
+2023-02-15 23:15:36,387 :INFO : findItem :Element index is: 0
+2023-02-15 23:15:36,387 :INFO : findItem :Element index is: 0
+2023-02-15 23:15:36,387 :INFO : findItem :Element index is: 0
+2023-02-15 23:15:43,921 :INFO : test_groceryShopping :MILK was found and added to cart
+2023-02-15 23:19:19,244 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 23:19:23,351 :INFO : findItem :Element index is: 0
+2023-02-15 23:19:30,874 :INFO : test_groceryShopping :BREAD was found and added to cart
+2023-02-15 23:19:33,168 :INFO : test_groceryShopping :Searching for second item: MILK
+2023-02-15 23:19:38,355 :INFO : findItem :Element index is: 0
+2023-02-15 23:19:38,355 :INFO : findItem :Element index is: 0
+2023-02-15 23:19:45,924 :INFO : test_groceryShopping :MILK was found and added to cart
+2023-02-15 23:19:49,253 :INFO : test_groceryShopping :Searching for third item: EGG
+2023-02-15 23:19:54,846 :INFO : findItem :Element index is: 0
+2023-02-15 23:19:54,846 :INFO : findItem :Element index is: 0
+2023-02-15 23:19:54,846 :INFO : findItem :Element index is: 0
+2023-02-15 23:20:02,406 :INFO : test_groceryShopping :MILK was found and added to cart
+2023-02-15 23:22:15,121 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 23:22:19,226 :INFO : findItem :Element index is: 0
+2023-02-15 23:22:27,148 :INFO : test_groceryShopping :BREAD was found and added to cart
+2023-02-15 23:22:29,447 :INFO : test_groceryShopping :Searching for second item: MILK
+2023-02-15 23:22:34,651 :INFO : findItem :Element index is: 0
+2023-02-15 23:22:34,651 :INFO : findItem :Element index is: 0
+2023-02-15 23:22:42,563 :INFO : test_groceryShopping :MILK was found and added to cart
+2023-02-15 23:22:45,887 :INFO : test_groceryShopping :Searching for third item: EGG
+2023-02-15 23:22:51,519 :INFO : findItem :Element index is: 0
+2023-02-15 23:22:51,519 :INFO : findItem :Element index is: 0
+2023-02-15 23:22:51,519 :INFO : findItem :Element index is: 0
+2023-02-15 23:22:59,430 :INFO : test_groceryShopping :MILK was found and added to cart
+2023-02-15 23:24:17,219 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 23:24:21,459 :INFO : findItem :Element index is: 0
+2023-02-15 23:24:28,881 :INFO : test_groceryShopping :BREAD was found and added to cart
+2023-02-15 23:24:30,981 :INFO : test_groceryShopping :Searching for second item: MILK
+2023-02-15 23:24:36,257 :INFO : findItem :Element index is: 0
+2023-02-15 23:24:36,257 :INFO : findItem :Element index is: 0
+2023-02-15 23:24:43,629 :INFO : test_groceryShopping :MILK was found and added to cart
+2023-02-15 23:24:46,722 :INFO : test_groceryShopping :Searching for third item: EGG
+2023-02-15 23:24:52,249 :INFO : findItem :Element index is: 0
+2023-02-15 23:24:52,249 :INFO : findItem :Element index is: 0
+2023-02-15 23:24:52,249 :INFO : findItem :Element index is: 0
+2023-02-15 23:24:59,593 :INFO : test_groceryShopping :MILK was found and added to cart
+2023-02-15 23:26:29,234 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 23:26:33,393 :INFO : findItem :Element index is: 0
+2023-02-15 23:26:40,803 :INFO : test_groceryShopping :BREAD was found and added to cart
+2023-02-15 23:26:42,897 :INFO : test_groceryShopping :Searching for second item: MILK
+2023-02-15 23:26:48,047 :INFO : findItem :Element index is: 0
+2023-02-15 23:26:48,047 :INFO : findItem :Element index is: 0
+2023-02-15 23:26:55,403 :INFO : test_groceryShopping :MILK was found and added to cart
+2023-02-15 23:26:58,489 :INFO : test_groceryShopping :Searching for third item: EGG
+2023-02-15 23:27:04,019 :INFO : findItem :Element index is: 0
+2023-02-15 23:27:04,019 :INFO : findItem :Element index is: 0
+2023-02-15 23:27:04,019 :INFO : findItem :Element index is: 0
+2023-02-15 23:27:11,378 :INFO : test_groceryShopping :MILK was found and added to cart
+2023-02-15 23:27:30,549 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 23:27:34,727 :INFO : findItem :Element index is: 0
+2023-02-15 23:27:42,130 :INFO : test_groceryShopping :BREAD was found and added to cart
+2023-02-15 23:27:44,219 :INFO : test_groceryShopping :Searching for second item: MILK
+2023-02-15 23:27:49,345 :INFO : findItem :Element index is: 0
+2023-02-15 23:27:49,345 :INFO : findItem :Element index is: 0
+2023-02-15 23:27:56,696 :INFO : test_groceryShopping :MILK was found and added to cart
+2023-02-15 23:27:59,781 :INFO : test_groceryShopping :Searching for third item: EGG
+2023-02-15 23:28:05,282 :INFO : findItem :Element index is: 0
+2023-02-15 23:28:05,282 :INFO : findItem :Element index is: 0
+2023-02-15 23:28:05,282 :INFO : findItem :Element index is: 0
+2023-02-15 23:28:12,619 :INFO : test_groceryShopping :MILK was found and added to cart
+2023-02-15 23:28:58,153 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 23:29:02,343 :INFO : findItem :Element index is: 0
+2023-02-15 23:29:09,775 :INFO : test_groceryShopping :BREAD was found and added to cart
+2023-02-15 23:29:11,871 :INFO : test_groceryShopping :Searching for second item: MILK
+2023-02-15 23:29:17,016 :INFO : findItem :Element index is: 0
+2023-02-15 23:29:17,016 :INFO : findItem :Element index is: 0
+2023-02-15 23:29:24,367 :INFO : test_groceryShopping :MILK was found and added to cart
+2023-02-15 23:29:27,452 :INFO : test_groceryShopping :Searching for third item: EGG
+2023-02-15 23:29:33,020 :INFO : findItem :Element index is: 0
+2023-02-15 23:29:33,020 :INFO : findItem :Element index is: 0
+2023-02-15 23:29:33,020 :INFO : findItem :Element index is: 0
+2023-02-15 23:29:40,357 :INFO : test_groceryShopping :MILK was found and added to cart
+2023-02-15 23:29:42,156 :INFO : test_groceryShopping :Sending email now
+2023-02-15 23:30:04,611 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 23:30:08,645 :INFO : findItem :Element index is: 0
+2023-02-15 23:30:16,533 :INFO : test_groceryShopping :BREAD was found and added to cart
+2023-02-15 23:30:18,860 :INFO : test_groceryShopping :Searching for second item: MILK
+2023-02-15 23:30:24,030 :INFO : findItem :Element index is: 0
+2023-02-15 23:30:24,030 :INFO : findItem :Element index is: 0
+2023-02-15 23:30:31,944 :INFO : test_groceryShopping :MILK was found and added to cart
+2023-02-15 23:30:35,270 :INFO : test_groceryShopping :Searching for third item: EGG
+2023-02-15 23:30:40,839 :INFO : findItem :Element index is: 0
+2023-02-15 23:30:40,839 :INFO : findItem :Element index is: 0
+2023-02-15 23:30:40,839 :INFO : findItem :Element index is: 0
+2023-02-15 23:30:48,737 :INFO : test_groceryShopping :MILK was found and added to cart
+2023-02-15 23:32:51,145 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 23:32:55,419 :INFO : findItem :Element index is: 0
+2023-02-15 23:33:01,610 :INFO : test_groceryShopping :BREAD was found and added to cart
+2023-02-15 23:33:03,704 :INFO : test_groceryShopping :Searching for second item: MILK
+2023-02-15 23:33:08,855 :INFO : findItem :Element index is: 0
+2023-02-15 23:33:08,855 :INFO : findItem :Element index is: 0
+2023-02-15 23:33:14,916 :INFO : test_groceryShopping :MILK was found and added to cart
+2023-02-15 23:33:18,003 :INFO : test_groceryShopping :Searching for third item: EGG
+2023-02-15 23:33:23,624 :INFO : findItem :Element index is: 0
+2023-02-15 23:33:23,624 :INFO : findItem :Element index is: 0
+2023-02-15 23:33:23,624 :INFO : findItem :Element index is: 0
+2023-02-15 23:33:29,865 :INFO : test_groceryShopping :MILK was found and added to cart
+2023-02-15 23:33:31,491 :INFO : test_groceryShopping :Sending email now
+2023-02-15 23:33:48,617 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-15 23:33:52,729 :INFO : findItem :Element index is: 0
+2023-02-15 23:33:59,258 :INFO : test_groceryShopping :BREAD was found and added to cart
+2023-02-15 23:34:01,579 :INFO : test_groceryShopping :Searching for second item: MILK
+2023-02-15 23:34:06,724 :INFO : findItem :Element index is: 0
+2023-02-15 23:34:06,724 :INFO : findItem :Element index is: 0
+2023-02-15 23:34:13,315 :INFO : test_groceryShopping :MILK was found and added to cart
+2023-02-15 23:34:16,623 :INFO : test_groceryShopping :Searching for third item: EGG
+2023-02-15 23:34:22,212 :INFO : findItem :Element index is: 0
+2023-02-15 23:34:22,212 :INFO : findItem :Element index is: 0
+2023-02-15 23:34:22,212 :INFO : findItem :Element index is: 0
+2023-02-15 23:34:28,881 :INFO : test_groceryShopping :MILK was found and added to cart
+2023-02-16 11:13:58,667 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-16 11:14:02,959 :INFO : findItem :Element index is: 0
+2023-02-16 11:14:09,278 :INFO : test_groceryShopping :BREAD was found and added to cart
+2023-02-16 11:14:11,375 :INFO : test_groceryShopping :Searching for second item: MILK
+2023-02-16 11:14:16,683 :INFO : findItem :Element index is: 0
+2023-02-16 11:14:16,683 :INFO : findItem :Element index is: 0
+2023-02-16 11:14:22,933 :INFO : test_groceryShopping :MILK was found and added to cart
+2023-02-16 11:14:26,023 :INFO : test_groceryShopping :Searching for third item: EGG
+2023-02-16 11:14:31,843 :INFO : findItem :Element index is: 0
+2023-02-16 11:14:31,843 :INFO : findItem :Element index is: 0
+2023-02-16 11:14:31,843 :INFO : findItem :Element index is: 0
+2023-02-16 11:14:38,130 :INFO : test_groceryShopping :MILK was found and added to cart
+2023-02-16 11:14:40,000 :INFO : test_groceryShopping :Sending email now
+2023-02-16 11:15:01,587 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-16 11:15:06,041 :INFO : findItem :Element index is: 0
+2023-02-16 11:15:12,452 :INFO : test_groceryShopping :BREAD was found and added to cart
+2023-02-16 11:15:14,549 :INFO : test_groceryShopping :Searching for second item: MILK
+2023-02-16 11:15:19,990 :INFO : findItem :Element index is: 0
+2023-02-16 11:15:19,990 :INFO : findItem :Element index is: 0
+2023-02-16 11:15:26,153 :INFO : test_groceryShopping :MILK was found and added to cart
+2023-02-16 11:15:29,236 :INFO : test_groceryShopping :Searching for third item: EGG
+2023-02-16 11:15:34,805 :INFO : findItem :Element index is: 0
+2023-02-16 11:15:34,805 :INFO : findItem :Element index is: 0
+2023-02-16 11:15:34,805 :INFO : findItem :Element index is: 0
+2023-02-16 11:15:41,105 :INFO : test_groceryShopping :MILK was found and added to cart
+2023-02-16 11:15:42,871 :INFO : test_groceryShopping :Sending email now
+2023-02-16 11:36:44,275 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-16 11:36:48,968 :INFO : findItem :Element index is: 0
+2023-02-16 11:36:55,635 :INFO : test_groceryShopping :BREAD was found and added to cart
+2023-02-16 11:36:57,946 :INFO : test_groceryShopping :Searching for second item: MILK
+2023-02-16 11:37:03,151 :INFO : findItem :Element index is: 0
+2023-02-16 11:37:03,151 :INFO : findItem :Element index is: 0
+2023-02-16 11:37:09,810 :INFO : test_groceryShopping :MILK was found and added to cart
+2023-02-16 11:37:13,104 :INFO : test_groceryShopping :Searching for third item: EGG
+2023-02-16 11:37:18,671 :INFO : findItem :Element index is: 0
+2023-02-16 11:37:18,671 :INFO : findItem :Element index is: 0
+2023-02-16 11:37:18,671 :INFO : findItem :Element index is: 0
+2023-02-16 11:37:25,306 :INFO : test_groceryShopping :MILK was found and added to cart
+2023-02-16 11:38:42,044 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-16 11:38:46,380 :INFO : findItem :Element index is: 0
+2023-02-16 11:38:53,093 :INFO : test_groceryShopping :BREAD was found and added to cart
+2023-02-16 11:38:55,422 :INFO : test_groceryShopping :Searching for second item: MILK
+2023-02-16 11:39:00,740 :INFO : findItem :Element index is: 0
+2023-02-16 11:39:00,740 :INFO : findItem :Element index is: 0
+2023-02-16 11:39:07,359 :INFO : test_groceryShopping :MILK was found and added to cart
+2023-02-16 11:39:10,679 :INFO : test_groceryShopping :Searching for third item: EGG
+2023-02-16 11:39:16,335 :INFO : findItem :Element index is: 0
+2023-02-16 11:39:16,335 :INFO : findItem :Element index is: 0
+2023-02-16 11:39:16,335 :INFO : findItem :Element index is: 0
+2023-02-16 11:39:23,109 :INFO : test_groceryShopping :MILK was found and added to cart
+2023-02-16 11:52:09,093 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-16 11:52:13,466 :INFO : findItem :Element index is: 0
+2023-02-16 11:52:19,098 :INFO : test_groceryShopping :BREAD was found and added to cart
+2023-02-16 11:52:22,368 :INFO : test_groceryShopping :Searching for second item: MILK
+2023-02-16 11:52:27,765 :INFO : findItem :Element index is: 0
+2023-02-16 11:52:27,765 :INFO : findItem :Element index is: 0
+2023-02-16 11:52:33,408 :INFO : test_groceryShopping :MILK was found and added to cart
+2023-02-16 11:52:37,818 :INFO : test_groceryShopping :Searching for third item: EGG
+2023-02-16 11:52:43,582 :INFO : findItem :Element index is: 0
+2023-02-16 11:52:43,582 :INFO : findItem :Element index is: 0
+2023-02-16 11:52:43,582 :INFO : findItem :Element index is: 0
+2023-02-16 11:52:49,231 :INFO : test_groceryShopping :MILK was found and added to cart
+2023-02-16 12:01:54,690 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-16 12:01:59,079 :INFO : findItem :Element index is: 0
+2023-02-16 12:02:04,767 :INFO : test_groceryShopping :BREAD was found and added to cart
+2023-02-16 12:02:08,005 :INFO : test_groceryShopping :Searching for second item: MILK
+2023-02-16 12:02:13,277 :INFO : findItem :Element index is: 0
+2023-02-16 12:02:13,277 :INFO : findItem :Element index is: 0
+2023-02-16 12:02:18,919 :INFO : test_groceryShopping :MILK was found and added to cart
+2023-02-16 12:02:23,460 :INFO : test_groceryShopping :Searching for third item: EGG
+2023-02-16 12:02:29,138 :INFO : findItem :Element index is: 0
+2023-02-16 12:02:29,138 :INFO : findItem :Element index is: 0
+2023-02-16 12:02:29,138 :INFO : findItem :Element index is: 0
+2023-02-16 12:02:34,799 :INFO : test_groceryShopping :MILK was found and added to cart
+2023-02-16 12:04:43,792 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-16 12:04:48,354 :INFO : findItem :Element index is: 0
+2023-02-16 12:04:53,995 :INFO : test_groceryShopping :BREAD was found and added to cart
+2023-02-16 12:04:57,350 :INFO : test_groceryShopping :Searching for second item: MILK
+2023-02-16 12:05:02,566 :INFO : findItem :Element index is: 0
+2023-02-16 12:05:02,566 :INFO : findItem :Element index is: 0
+2023-02-16 12:05:08,213 :INFO : test_groceryShopping :MILK was found and added to cart
+2023-02-16 12:05:12,632 :INFO : test_groceryShopping :Searching for third item: EGG
+2023-02-16 12:05:18,234 :INFO : findItem :Element index is: 0
+2023-02-16 12:05:18,234 :INFO : findItem :Element index is: 0
+2023-02-16 12:05:18,234 :INFO : findItem :Element index is: 0
+2023-02-16 12:05:23,886 :INFO : test_groceryShopping :MILK was found and added to cart
+2023-02-16 12:05:27,047 :INFO : test_groceryShopping :Sending email now
+2023-02-16 12:06:01,691 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-16 12:06:06,158 :INFO : findItem :Element index is: 0
+2023-02-16 12:06:11,483 :INFO : test_groceryShopping :BREAD was found and added to cart
+2023-02-16 12:06:14,666 :INFO : test_groceryShopping :Searching for second item: MILK
+2023-02-16 12:06:20,193 :INFO : findItem :Element index is: 0
+2023-02-16 12:06:20,193 :INFO : findItem :Element index is: 0
+2023-02-16 12:06:25,449 :INFO : test_groceryShopping :MILK was found and added to cart
+2023-02-16 12:06:29,606 :INFO : test_groceryShopping :Searching for third item: EGG
+2023-02-16 12:06:35,158 :INFO : findItem :Element index is: 0
+2023-02-16 12:06:35,158 :INFO : findItem :Element index is: 0
+2023-02-16 12:06:35,158 :INFO : findItem :Element index is: 0
+2023-02-16 12:06:40,390 :INFO : test_groceryShopping :MILK was found and added to cart
+2023-02-16 12:06:42,852 :INFO : test_groceryShopping :Sending email now
+2023-02-16 12:46:58,799 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-16 12:47:03,059 :INFO : findItem :Element index is: 0
+2023-02-16 12:47:08,467 :INFO : test_groceryShopping :BREAD was found and added to cart
+2023-02-16 12:47:11,515 :INFO : test_groceryShopping :Searching for second item: MILK
+2023-02-16 12:47:16,735 :INFO : findItem :Element index is: 0
+2023-02-16 12:47:16,735 :INFO : findItem :Element index is: 0
+2023-02-16 12:47:22,009 :INFO : test_groceryShopping :MILK was found and added to cart
+2023-02-16 12:47:25,952 :INFO : test_groceryShopping :Searching for third item: EGG
+2023-02-16 12:47:31,571 :INFO : findItem :Element index is: 0
+2023-02-16 12:47:31,571 :INFO : findItem :Element index is: 0
+2023-02-16 12:47:31,571 :INFO : findItem :Element index is: 0
+2023-02-16 12:47:36,822 :INFO : test_groceryShopping :MILK was found and added to cart
+2023-02-16 12:47:39,138 :INFO : test_groceryShopping :Sending email now
+2023-02-16 14:20:39,480 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-16 14:20:43,952 :INFO : findItem :Element index is: 0
+2023-02-16 14:20:49,286 :INFO : test_groceryShopping :BREAD was found and added to cart
+2023-02-16 14:20:52,332 :INFO : test_groceryShopping :Searching for second item: MILK
+2023-02-16 14:20:57,505 :INFO : findItem :Element index is: 0
+2023-02-16 14:20:57,505 :INFO : findItem :Element index is: 0
+2023-02-16 14:21:02,731 :INFO : test_groceryShopping :MILK was found and added to cart
+2023-02-16 14:21:06,813 :INFO : test_groceryShopping :Searching for third item: EGG
+2023-02-16 14:21:12,444 :INFO : findItem :Element index is: 0
+2023-02-16 14:21:12,444 :INFO : findItem :Element index is: 0
+2023-02-16 14:21:12,444 :INFO : findItem :Element index is: 0
+2023-02-16 14:21:17,703 :INFO : test_groceryShopping :EGG was found and added to cart
+2023-02-16 14:21:19,773 :INFO : test_groceryShopping :Sending email now
+2023-02-16 14:23:29,357 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-16 14:23:33,558 :INFO : findItem :Element index is: 0
+2023-02-16 14:23:38,891 :INFO : test_groceryShopping :BREAD was found and added to cart
+2023-02-16 14:23:41,923 :INFO : test_groceryShopping :Searching for second item: MILK
+2023-02-16 14:23:47,016 :INFO : findItem :Element index is: 0
+2023-02-16 14:23:47,016 :INFO : findItem :Element index is: 0
+2023-02-16 14:23:52,294 :INFO : test_groceryShopping :MILK was found and added to cart
+2023-02-16 14:23:56,386 :INFO : test_groceryShopping :Searching for third item: EGG
+2023-02-16 14:24:01,974 :INFO : findItem :Element index is: 0
+2023-02-16 14:24:01,974 :INFO : findItem :Element index is: 0
+2023-02-16 14:24:01,974 :INFO : findItem :Element index is: 0
+2023-02-16 14:24:07,215 :INFO : test_groceryShopping :EGG was found and added to cart
+2023-02-16 14:24:09,487 :INFO : test_groceryShopping :Sending email now
+2023-02-16 14:24:54,586 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-16 14:24:58,796 :INFO : findItem :Element index is: 0
+2023-02-16 14:25:04,107 :INFO : test_groceryShopping :BREAD was found and added to cart
+2023-02-16 14:25:07,164 :INFO : test_groceryShopping :Searching for second item: MILK
+2023-02-16 14:25:12,322 :INFO : findItem :Element index is: 0
+2023-02-16 14:25:12,322 :INFO : findItem :Element index is: 0
+2023-02-16 14:25:17,577 :INFO : test_groceryShopping :MILK was found and added to cart
+2023-02-16 14:25:21,527 :INFO : test_groceryShopping :Searching for third item: EGG
+2023-02-16 14:25:27,043 :INFO : findItem :Element index is: 0
+2023-02-16 14:25:27,043 :INFO : findItem :Element index is: 0
+2023-02-16 14:25:27,043 :INFO : findItem :Element index is: 0
+2023-02-16 14:25:32,293 :INFO : test_groceryShopping :EGG was found and added to cart
+2023-02-16 14:25:34,375 :INFO : test_groceryShopping :Sending email now
+2023-02-16 14:26:27,469 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-16 14:26:31,808 :INFO : findItem :Element index is: 0
+2023-02-16 14:26:37,493 :INFO : test_groceryShopping :BREAD was found and added to cart
+2023-02-16 14:26:40,780 :INFO : test_groceryShopping :Searching for second item: MILK
+2023-02-16 14:26:45,984 :INFO : findItem :Element index is: 0
+2023-02-16 14:26:45,984 :INFO : findItem :Element index is: 0
+2023-02-16 14:26:51,622 :INFO : test_groceryShopping :MILK was found and added to cart
+2023-02-16 14:26:55,907 :INFO : test_groceryShopping :Searching for third item: EGG
+2023-02-16 14:27:01,578 :INFO : findItem :Element index is: 0
+2023-02-16 14:27:01,578 :INFO : findItem :Element index is: 0
+2023-02-16 14:27:01,578 :INFO : findItem :Element index is: 0
+2023-02-16 14:27:07,222 :INFO : test_groceryShopping :EGG was found and added to cart
+2023-02-16 14:27:09,266 :INFO : test_groceryShopping :Sending email now
+2023-02-16 14:27:39,994 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-16 14:27:44,968 :INFO : findItem :Element index is: 0
+2023-02-16 14:27:50,326 :INFO : test_groceryShopping :BREAD was found and added to cart
+2023-02-16 14:27:53,345 :INFO : test_groceryShopping :Searching for second item: MILK
+2023-02-16 14:27:58,603 :INFO : findItem :Element index is: 0
+2023-02-16 14:27:58,603 :INFO : findItem :Element index is: 0
+2023-02-16 14:28:03,819 :INFO : test_groceryShopping :MILK was found and added to cart
+2023-02-16 14:28:07,971 :INFO : test_groceryShopping :Searching for third item: EGG
+2023-02-16 14:28:13,619 :INFO : findItem :Element index is: 0
+2023-02-16 14:28:13,619 :INFO : findItem :Element index is: 0
+2023-02-16 14:28:13,619 :INFO : findItem :Element index is: 0
+2023-02-16 14:28:18,855 :INFO : test_groceryShopping :EGG was found and added to cart
+2023-02-16 14:28:21,921 :INFO : test_groceryShopping :Sending email now
+2023-02-18 15:49:27,311 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-18 15:49:31,540 :INFO : findItem :Element index is: 0
+2023-02-18 15:49:36,842 :INFO : test_groceryShopping :BREAD was found and added to cart
+2023-02-18 15:49:39,878 :INFO : test_groceryShopping :Searching for second item: MILK
+2023-02-18 15:49:45,026 :INFO : findItem :Element index is: 0
+2023-02-18 15:49:45,026 :INFO : findItem :Element index is: 0
+2023-02-18 15:49:50,245 :INFO : test_groceryShopping :MILK was found and added to cart
+2023-02-18 15:49:54,305 :INFO : test_groceryShopping :Searching for third item: EGG
+2023-02-18 15:49:59,975 :INFO : findItem :Element index is: 0
+2023-02-18 15:49:59,975 :INFO : findItem :Element index is: 0
+2023-02-18 15:49:59,975 :INFO : findItem :Element index is: 0
+2023-02-18 15:50:05,182 :INFO : test_groceryShopping :EGG was found and added to cart
+2023-02-18 15:50:07,333 :INFO : test_groceryShopping :Sending email now
+2023-02-18 15:52:21,491 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-18 15:52:25,816 :INFO : findItem :Element index is: 0
+2023-02-18 15:52:31,100 :INFO : test_groceryShopping :BREAD was found and added to cart
+2023-02-18 15:52:34,163 :INFO : test_groceryShopping :Searching for second item: MILK
+2023-02-18 15:52:39,381 :INFO : findItem :Element index is: 0
+2023-02-18 15:52:39,381 :INFO : findItem :Element index is: 0
+2023-02-18 15:52:44,610 :INFO : test_groceryShopping :MILK was found and added to cart
+2023-02-18 15:52:48,722 :INFO : test_groceryShopping :Searching for third item: EGG
+2023-02-18 15:52:54,327 :INFO : findItem :Element index is: 0
+2023-02-18 15:52:54,327 :INFO : findItem :Element index is: 0
+2023-02-18 15:52:54,327 :INFO : findItem :Element index is: 0
+2023-02-18 15:52:59,550 :INFO : test_groceryShopping :EGG was found and added to cart
+2023-02-18 15:53:01,621 :INFO : test_groceryShopping :Sending email now
+2023-02-18 15:56:17,432 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-18 15:56:21,671 :INFO : findItem :Element index is: 0
+2023-02-18 15:56:26,970 :INFO : test_groceryShopping :BREAD was found and added to cart
+2023-02-18 15:56:29,955 :INFO : test_groceryShopping :Searching for second item: MILK
+2023-02-18 15:56:35,140 :INFO : findItem :Element index is: 0
+2023-02-18 15:56:35,140 :INFO : findItem :Element index is: 0
+2023-02-18 15:56:40,346 :INFO : test_groceryShopping :MILK was found and added to cart
+2023-02-18 15:56:44,431 :INFO : test_groceryShopping :Searching for third item: EGG
+2023-02-18 15:56:50,078 :INFO : findItem :Element index is: 0
+2023-02-18 15:56:50,078 :INFO : findItem :Element index is: 0
+2023-02-18 15:56:50,078 :INFO : findItem :Element index is: 0
+2023-02-18 15:56:55,310 :INFO : test_groceryShopping :EGG was found and added to cart
+2023-02-18 15:56:57,738 :INFO : test_groceryShopping :Sending email now
+2023-02-19 14:03:53,124 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-19 14:03:57,584 :INFO : findItem :Element index is: 0
+2023-02-19 14:04:03,064 :INFO : test_groceryShopping :BREAD was found and added to cart
+2023-02-19 14:04:06,144 :INFO : test_groceryShopping :Searching for second item: MILK
+2023-02-19 14:04:11,448 :INFO : findItem :Element index is: 0
+2023-02-19 14:04:11,448 :INFO : findItem :Element index is: 0
+2023-02-19 14:04:16,746 :INFO : test_groceryShopping :MILK was found and added to cart
+2023-02-19 14:04:20,769 :INFO : test_groceryShopping :Searching for third item: EGG
+2023-02-19 14:04:26,497 :INFO : findItem :Element index is: 0
+2023-02-19 14:04:26,497 :INFO : findItem :Element index is: 0
+2023-02-19 14:04:26,497 :INFO : findItem :Element index is: 0
+2023-02-19 14:04:31,822 :INFO : test_groceryShopping :EGG was found and added to cart
+2023-02-19 14:04:34,289 :INFO : test_groceryShopping :Sending email now
+2023-02-19 14:07:26,000 :INFO : test_groceryShopping :Searching for first item: BREAD
+2023-02-19 14:07:30,389 :INFO : findItem :Element index is: 0
+2023-02-19 14:07:35,764 :INFO : test_groceryShopping :BREAD was found and added to cart
+2023-02-19 14:07:38,848 :INFO : test_groceryShopping :Searching for second item: MILK
+2023-02-19 14:07:44,182 :INFO : findItem :Element index is: 0
+2023-02-19 14:07:44,182 :INFO : findItem :Element index is: 0
+2023-02-19 14:07:49,491 :INFO : test_groceryShopping :MILK was found and added to cart
+2023-02-19 14:07:53,675 :INFO : test_groceryShopping :Searching for third item: EGG
+2023-02-19 14:07:59,417 :INFO : findItem :Element index is: 0
+2023-02-19 14:07:59,417 :INFO : findItem :Element index is: 0
+2023-02-19 14:07:59,417 :INFO : findItem :Element index is: 0
+2023-02-19 14:08:04,709 :INFO : test_groceryShopping :EGG was found and added to cart
+2023-02-19 14:08:07,274 :INFO : test_groceryShopping :Sending email now

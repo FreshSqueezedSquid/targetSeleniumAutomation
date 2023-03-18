@@ -1,0 +1,1 @@
+An automation project where I buy some grocceries from Target

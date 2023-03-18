@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite name="pytest" errors="0" failures="0" skipped="0" tests="1" time="52.026" timestamp="2023-02-18T15:56:12.624222" hostname="Zacharys-Air"><testcase classname="test_Target.TestTarget" name="test_groceryShopping[getData0-loginData0]" time="52.007" /></testsuite></testsuites>

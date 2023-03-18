@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8"/>
+    <title>report.html</title>
+    <link href="assets/style.css" rel="stylesheet" type="text/css"/></head>
+  <body onLoad="init()">
+    <script>/* This Source Code Form is subject to the terms of the Mozilla Public
+ * License, v. 2.0. If a copy of the MPL was not distributed with this file,
+ * You can obtain one at http://mozilla.org/MPL/2.0/. */
+
+
+function toArray(iter) {
+    if (iter === null) {
+        return null;
+    }
+    return Array.prototype.slice.call(iter);
+}
+
+function find(selector, elem) { // eslint-disable-line no-redeclare
+    if (!elem) {
+        elem = document;
+    }
+    return elem.querySelector(selector);
+}
+
+function findAll(selector, elem) {
+    if (!elem) {
+        elem = document;
+    }
+    return toArray(elem.querySelectorAll(selector));
+}
+
+function sortColumn(elem) {
+    toggleSortStates(elem);
+    const colIndex = toArray(elem.parentNode.childNodes).indexOf(elem);
+    let key;
+    if (elem.classList.contains('result')) {
+        key = keyResult;
+    } else if (elem.classList.contains('links')) {
+        key = keyLink;
+    } else {
+        key = keyAlpha;
+    }
+    sortTable(elem, key(colIndex));
+}
+
+function showAllExtras() { // eslint-disable-line no-unused-vars
+    findAll('.col-result').forEach(showExtras);
+}
+
+function hideAllExtras() { // eslint-disable-line no-unused-vars
+    findAll('.col-result').forEach(hideExtras);
+}
+
+function showExtras(colresultElem) {
+    const extras = colresultElem.parentNode.nextElementSibling;
+    const expandcollapse = colresultElem.firstElementChild;
+    extras.classList.remove('collapsed');
+    expandcollapse.classList.remove('expander');
+    expandcollapse.classList.add('collapser');
+}
+
+function hideExtras(colresultElem) {
+    const extras = colresultElem.parentNode.nextElementSibling;
+    const expandcollapse = colresultElem.firstElementChild;
+    extras.classList.add('collapsed');
+    expandcollapse.classList.remove('collapser');
+    expandcollapse.classList.add('expander');
+}
+
+function showFilters() {
+    let visibleString = getQueryParameter('visible') || 'all';
+    visibleString = visibleString.toLowerCase();
+    const checkedItems = visibleString.split(',');
+
+    const filterItems = document.getElementsByClassName('filter');
+    for (let i = 0; i < filterItems.length; i++) {
+        filterItems[i].hidden = false;
+
+        if (visibleString != 'all') {
+            filterItems[i].checked = checkedItems.includes(filterItems[i].getAttribute('data-test-result'));
+            filterTable(filterItems[i]);
+        }
+    }
+}
+
+function addCollapse() {
+    // Add links for show/hide all
+    const resulttable = find('table#results-table');
+    const showhideall = document.createElement('p');
+    showhideall.innerHTML = '<a href="javascript:showAllExtras()">Show all details</a> / ' +
+                            '<a href="javascript:hideAllExtras()">Hide all details</a>';
+    resulttable.parentElement.insertBefore(showhideall, resulttable);
+
+    // Add show/hide link to each result
+    findAll('.col-result').forEach(function(elem) {
+        const collapsed = getQueryParameter('collapsed') || 'Passed';
+        const extras = elem.parentNode.nextElementSibling;
+        const expandcollapse = document.createElement('span');
+        if (extras.classList.contains('collapsed')) {
+            expandcollapse.classList.add('expander');
+        } else if (collapsed.includes(elem.innerHTML)) {
+            extras.classList.add('collapsed');
+            expandcollapse.classList.add('expander');
+        } else {
+            expandcollapse.classList.add('collapser');
+        }
+        elem.appendChild(expandcollapse);
+
+        elem.addEventListener('click', function(event) {
+            if (event.currentTarget.parentNode.nextElementSibling.classList.contains('collapsed')) {
+                showExtras(event.currentTarget);
+            } else {
+                hideExtras(event.currentTarget);
+            }
+        });
+    });
+}
+
+function getQueryParameter(name) {
+    const match = RegExp('[?&]' + name + '=([^&]*)').exec(window.location.search);
+    return match && decodeURIComponent(match[1].replace(/\+/g, ' '));
+}
+
+function init () { // eslint-disable-line no-unused-vars
+    resetSortHeaders();
+
+    addCollapse();
+
+    showFilters();
+
+    sortColumn(find('.initial-sort'));
+
+    findAll('.sortable').forEach(function(elem) {
+        elem.addEventListener('click',
+            function() {
+                sortColumn(elem);
+            }, false);
+    });
+}
+
+function sortTable(clicked, keyFunc) {
+    const rows = findAll('.results-table-row');
+    const reversed = !clicked.classList.contains('asc');
+    const sortedRows = sort(rows, keyFunc, reversed);
+    /* Whole table is removed here because browsers acts much slower
+     * when appending existing elements.
+     */
+    const thead = document.getElementById('results-table-head');
+    document.getElementById('results-table').remove();
+    const parent = document.createElement('table');
+    parent.id = 'results-table';
+    parent.appendChild(thead);
+    sortedRows.forEach(function(elem) {
+        parent.appendChild(elem);
+    });
+    document.getElementsByTagName('BODY')[0].appendChild(parent);
+}
+
+function sort(items, keyFunc, reversed) {
+    const sortArray = items.map(function(item, i) {
+        return [keyFunc(item), i];
+    });
+
+    sortArray.sort(function(a, b) {
+        const keyA = a[0];
+        const keyB = b[0];
+
+        if (keyA == keyB) return 0;
+
+        if (reversed) {
+            return keyA < keyB ? 1 : -1;
+        } else {
+            return keyA > keyB ? 1 : -1;
+        }
+    });
+
+    return sortArray.map(function(item) {
+        const index = item[1];
+        return items[index];
+    });
+}
+
+function keyAlpha(colIndex) {
+    return function(elem) {
+        return elem.childNodes[1].childNodes[colIndex].firstChild.data.toLowerCase();
+    };
+}
+
+function keyLink(colIndex) {
+    return function(elem) {
+        const dataCell = elem.childNodes[1].childNodes[colIndex].firstChild;
+        return dataCell == null ? '' : dataCell.innerText.toLowerCase();
+    };
+}
+
+function keyResult(colIndex) {
+    return function(elem) {
+        const strings = ['Error', 'Failed', 'Rerun', 'XFailed', 'XPassed',
+            'Skipped', 'Passed'];
+        return strings.indexOf(elem.childNodes[1].childNodes[colIndex].firstChild.data);
+    };
+}
+
+function resetSortHeaders() {
+    findAll('.sort-icon').forEach(function(elem) {
+        elem.parentNode.removeChild(elem);
+    });
+    findAll('.sortable').forEach(function(elem) {
+        const icon = document.createElement('div');
+        icon.className = 'sort-icon';
+        icon.textContent = 'vvv';
+        elem.insertBefore(icon, elem.firstChild);
+        elem.classList.remove('desc', 'active');
+        elem.classList.add('asc', 'inactive');
+    });
+}
+
+function toggleSortStates(elem) {
+    //if active, toggle between asc and desc
+    if (elem.classList.contains('active')) {
+        elem.classList.toggle('asc');
+        elem.classList.toggle('desc');
+    }
+
+    //if inactive, reset all other functions and add ascending active
+    if (elem.classList.contains('inactive')) {
+        resetSortHeaders();
+        elem.classList.remove('inactive');
+        elem.classList.add('active');
+    }
+}
+
+function isAllRowsHidden(value) {
+    return value.hidden == false;
+}
+
+function filterTable(elem) { // eslint-disable-line no-unused-vars
+    const outcomeAtt = 'data-test-result';
+    const outcome = elem.getAttribute(outcomeAtt);
+    const classOutcome = outcome + ' results-table-row';
+    const outcomeRows = document.getElementsByClassName(classOutcome);
+
+    for(let i = 0; i < outcomeRows.length; i++){
+        outcomeRows[i].hidden = !elem.checked;
+    }
+
+    const rows = findAll('.results-table-row').filter(isAllRowsHidden);
+    const allRowsHidden = rows.length == 0 ? true : false;
+    const notFoundMessage = document.getElementById('not-found-message');
+    notFoundMessage.hidden = !allRowsHidden;
+}
+</script>
+    <h1>report.html</h1>
+    <p>Report generated on 19-Feb-2023 at 14:08:30 by <a href="https://pypi.python.org/pypi/pytest-html">pytest-html</a> v3.2.0</p>
+    <h2>Environment</h2>
+    <table id="environment">
+      <tr>
+        <td>Packages</td>
+        <td>{"pluggy": "1.0.0", "pytest": "7.2.1"}</td></tr>
+      <tr>
+        <td>Platform</td>
+        <td>macOS-13.2-arm64-arm-64bit</td></tr>
+      <tr>
+        <td>Plugins</td>
+        <td>{"html": "3.2.0", "metadata": "2.0.4"}</td></tr>
+      <tr>
+        <td>Python</td>
+        <td>3.11.1</td></tr></table>
+    <h2>Summary</h2>
+    <p>1 tests ran in 70.59 seconds. </p>
+    <p class="filter" hidden="true">(Un)check the boxes to filter the results.</p><input checked="true" class="filter" data-test-result="passed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="passed">0 passed</span>, <input checked="true" class="filter" data-test-result="skipped" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="skipped">0 skipped</span>, <input checked="true" class="filter" data-test-result="failed" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="failed">1 failed</span>, <input checked="true" class="filter" data-test-result="error" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="error">0 errors</span>, <input checked="true" class="filter" data-test-result="xfailed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="xfailed">0 expected failures</span>, <input checked="true" class="filter" data-test-result="xpassed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="xpassed">0 unexpected passes</span>
+    <h2>Results</h2>
+    <table id="results-table">
+      <thead id="results-table-head">
+        <tr>
+          <th class="sortable result initial-sort" col="result">Result</th>
+          <th class="sortable" col="name">Test</th>
+          <th class="sortable" col="duration">Duration</th>
+          <th class="sortable links" col="links">Links</th></tr>
+        <tr hidden="true" id="not-found-message">
+          <th colspan="4">No results found. Try to check the filters</th></tr></thead>
+      <tbody class="failed results-table-row">
+        <tr>
+          <td class="col-result">Failed</td>
+          <td class="col-name">test_Target.py::TestTarget::test_groceryShopping[getData0-loginData0]</td>
+          <td class="col-duration">70.39</td>
+          <td class="col-links"></td></tr>
+        <tr>
+          <td class="extra" colspan="4">
+            <div><div><img src="test_Target.py_TestTarget_test_groceryShopping[getData0-loginData0].png" alt="screenshot" style="width:304px;height:228px;" onclick="window.open(this.src)" align="right"/></div></div>
+            <div class="log">self = &lt;tests.test_Target.TestTarget object at 0x10207e7d0&gt;<br/>getData = {&#x27;item1&#x27;: &#x27;Wonder Round Top White Sliced Bread - 20oz&#x27;, &#x27;item2&#x27;: &#x27;Fairlife Lactose-Free Whole Milk - 52 fl oz&#x27;, &#x27;item3&#x27;: &quot;Eggland&#x27;s Best Large Cage Free White Eggs - 12ct&quot;}<br/>loginData = {&#x27;email&#x27;: &#x27;freshsqueezedsquid@gmail.com&#x27;, &#x27;password&#x27;: &#x27;1hazakarot&#x27;}<br/><br/>    def test_groceryShopping(self, getData, loginData):<br/>        log = self.getLog()<br/>        wait = WebDriverWait(self.driver, 15)<br/>        log.info(&quot;Searching for first item: BREAD&quot;)<br/>        time.sleep(2)<br/>    <br/>        self.searchItem(getData[&quot;item1&quot;])<br/>        time.sleep(1.4)<br/>        self.clickSearch()<br/>        self.findItem(getData[&quot;item1&quot;])<br/>        log.info(&quot;BREAD was found and added to cart&quot;)<br/>        wait.until(EC.element_to_be_clickable((By.XPATH, &quot;.//button[@aria-label=&#x27;close&#x27;]&quot;)))<br/>        self.continueShopping()<br/>    <br/>        time.sleep(2)<br/>        self.clearSearch()<br/>        log.info(&quot;Searching for second item: MILK&quot;)<br/>    <br/>        time.sleep(2.4)<br/>        self.searchItem(getData[&quot;item2&quot;])<br/>        time.sleep(2)<br/>        self.clickSearch()<br/>        self.findItem(getData[&quot;item2&quot;])<br/>        log.info(&quot;MILK was found and added to cart&quot;)<br/>        wait.until(EC.element_to_be_clickable((By.XPATH, &quot;.//button[@aria-label=&#x27;close&#x27;]&quot;)))<br/>        self.continueShopping()<br/>    <br/>        time.sleep(3)<br/>        self.clearSearch()<br/>        log.info(&quot;Searching for third item: EGG&quot;)<br/>        time.sleep(1.8)<br/>    <br/>        self.searchItem(getData[&quot;item3&quot;])<br/>        time.sleep(3)<br/>        self.clickSearch()<br/>        self.findItem(getData[&quot;item3&quot;])<br/>        log.info(&quot;EGG was found and added to cart&quot;)<br/>    <br/>        self.scrollDown()<br/>    <br/>        checkoutPage = HomePage.goToCheckout(self)<br/>        wait.until(EC.element_to_be_clickable((By.XPATH, &quot;//button[@data-test=&#x27;checkout-button&#x27;]&quot;)))<br/>        checkoutPage.guestLogin().click()<br/>        log.info(&quot;Sending email now&quot;)<br/>        time.sleep(2.5)<br/>        checkoutPage.sendEmail().send_keys(loginData[&quot;email&quot;])<br/>        wait.until(EC.element_to_be_clickable((By.CSS_SELECTOR, &quot;#password&quot;)))<br/>        time.sleep(3)<br/>        checkoutPage.sendPassword().send_keys(loginData[&quot;password&quot;])<br/>        wait.until(EC.element_to_be_clickable((By.CSS_SELECTOR, &quot;#login&quot;)))<br/>        time.sleep(1)<br/>        checkoutPage.signIn().click()<br/>        # will fail right here, as methinks site detects when bots are trying to buy things automatically<br/>        # &quot;Checkout&quot; will not become visible within given time frame<br/>&gt;       wait.until(EC.element_to_be_clickable((By.CSS_SELECTOR, &quot;#checkout-header&quot;)))<br/><br/>test_Target.py:69: <br/>_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ <br/><br/>self = &lt;selenium.webdriver.support.wait.WebDriverWait (session=&quot;6b315f337df6ad6b02f1a0d1ee59a312&quot;)&gt;<br/>method = &lt;function element_to_be_clickable.&lt;locals&gt;._predicate at 0x1020af600&gt;<br/>message = &#x27;&#x27;<br/><br/>    def until(self, method, message: str = &quot;&quot;):<br/>        &quot;&quot;&quot;Calls the method provided with the driver as an argument until the \<br/>        return value does not evaluate to ``False``.<br/>    <br/>        :param method: callable(WebDriver)<br/>        :param message: optional message for :exc:`TimeoutException`<br/>        :returns: the result of the last call to `method`<br/>        :raises: :exc:`selenium.common.exceptions.TimeoutException` if timeout occurs<br/>        &quot;&quot;&quot;<br/>        screen = None<br/>        stacktrace = None<br/>    <br/>        end_time = time.monotonic() + self._timeout<br/>        while True:<br/>            try:<br/>                value = method(self._driver)<br/>                if value:<br/>                    return value<br/>            except self._ignored_exceptions as exc:<br/>                screen = getattr(exc, &quot;screen&quot;, None)<br/>                stacktrace = getattr(exc, &quot;stacktrace&quot;, None)<br/>            time.sleep(self._poll)<br/>            if time.monotonic() &gt; end_time:<br/>                break<br/>&gt;       raise TimeoutException(message, screen, stacktrace)<br/><span class="error">E       selenium.common.exceptions.TimeoutException: Message: </span><br/><span class="error">E       Stacktrace:</span><br/><span class="error">E       0   chromedriver                        0x00000001025430fc chromedriver + 4223228</span><br/><span class="error">E       1   chromedriver                        0x00000001024cb284 chromedriver + 3732100</span><br/><span class="error">E       2   chromedriver                        0x000000010217f5c8 chromedriver + 275912</span><br/><span class="error">E       3   chromedriver                        0x00000001021bb1b8 chromedriver + 520632</span><br/><span class="error">E       4   chromedriver                        0x00000001021f3360 chromedriver + 750432</span><br/><span class="error">E       5   chromedriver                        0x00000001021ad748 chromedriver + 464712</span><br/><span class="error">E       6   chromedriver                        0x00000001021ae7f0 chromedriver + 468976</span><br/><span class="error">E       7   chromedriver                        0x0000000102513e08 chromedriver + 4029960</span><br/><span class="error">E       8   chromedriver                        0x0000000102517698 chromedriver + 4044440</span><br/><span class="error">E       9   chromedriver                        0x0000000102517cc0 chromedriver + 4046016</span><br/><span class="error">E       10  chromedriver                        0x000000010251e4c4 chromedriver + 4072644</span><br/><span class="error">E       11  chromedriver                        0x000000010251836c chromedriver + 4047724</span><br/><span class="error">E       12  chromedriver                        0x00000001024f0bd8 chromedriver + 3886040</span><br/><span class="error">E       13  chromedriver                        0x0000000102534efc chromedriver + 4165372</span><br/><span class="error">E       14  chromedriver                        0x0000000102535050 chromedriver + 4165712</span><br/><span class="error">E       15  chromedriver                        0x0000000102549e20 chromedriver + 4251168</span><br/><span class="error">E       16  libsystem_pthread.dylib             0x000000018fba606c _pthread_start + 148</span><br/><span class="error">E       17  libsystem_pthread.dylib             0x000000018fba0e2c thread_start + 8</span><br/><br/>/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/selenium/webdriver/support/wait.py:95: TimeoutException<br/> -------------------------------Captured log call-------------------------------- <br/>INFO     test_groceryShopping:test_Target.py:18 Searching for first item: BREAD
+INFO     findItem:BaseClass.py:50 Element index is: 0
+INFO     test_groceryShopping:test_Target.py:25 BREAD was found and added to cart
+INFO     test_groceryShopping:test_Target.py:31 Searching for second item: MILK
+INFO     findItem:BaseClass.py:50 Element index is: 0
+INFO     test_groceryShopping:test_Target.py:38 MILK was found and added to cart
+INFO     test_groceryShopping:test_Target.py:44 Searching for third item: EGG
+INFO     findItem:BaseClass.py:50 Element index is: 0
+INFO     test_groceryShopping:test_Target.py:51 EGG was found and added to cart
+INFO     test_groceryShopping:test_Target.py:58 Sending email now<br/></div></td></tr></tbody></table></body></html>

@@ -1,0 +1,7 @@
+[
+  "test_Target.py::TestTarget::test_groceryShopping[getData0-loginData0]",
+  "test_Target.py::TestTarget::test_groceryShopping[getData0]",
+  "test_Target.py::TestTarget::test_groceryShopping[item1]",
+  "test_Target.py::TestTarget::test_groceryShopping[item2]",
+  "test_Target.py::TestTarget::test_groceryShopping[item3]"
+]

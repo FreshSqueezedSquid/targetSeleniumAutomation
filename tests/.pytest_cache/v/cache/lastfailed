@@ -1,0 +1,6 @@
+{
+  "test_Target.py::TestTarget::test_groceryShopping[item1]": true,
+  "test_Target.py::TestTarget::test_groceryShopping[item2]": true,
+  "test_Target.py::TestTarget::test_groceryShopping[item3]": true,
+  "test_Target.py::TestTarget::test_groceryShopping[getData0-loginData0]": true
+}
